@@ -1,2 +1,5 @@
 # p2000
-Slaat iedere 15 minuten de P2000 meldingen voor Brandweer, Politie, KNRM en Traumaheli op.
+
+Deze repo slaat iedere 5 minuten de P2000 meldingen op voor Brandweer, Ambulance, Politie, KNRM en Traumaheli. De bron van deze data is https://alarmeringen.nl/webfeeds Deze data mag volgens de creative commenslicentie gebruikt worden voor niet commerciele doeleinden.
+
+

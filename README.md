@@ -1,4 +1,4 @@
-# p2000
+# P2000
 
 Deze repo slaat iedere 5 minuten de P2000 meldingen op voor Brandweer, Politie, KNRM en Traumaheli. 
 

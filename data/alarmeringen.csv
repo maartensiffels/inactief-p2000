@@ -650,3 +650,66 @@ ambulance,a2 13105 pieter calandlaan amsterdam 97888,Ambulance met gepaste spoed
 ambulance,a1 lelystad 61506,Ambulance met spoed naar Lelystad,2023-10-31,15:59:01
 trauma,a1 ambu 08993 hv weg letsel waalre gestelsestraat,Traumaheli naar Gestelsestraat in Waalre voor ongeval met letsel,2023-10-31,16:08:46
 trauma,a1 13991 kustweg delfzijl 97887 mka 1-3,Traumaheli naar Kustweg in Delfzijl,2023-10-31,15:58:27
+brandweer,p 2 bad-01 wateroverlast sloterkade amsterdam 139233,Geen beschrijving beschikbaar,2023-10-31,16:22:26
+brandweer,p 2 bmd-01 br gerucht betreft: oms mc groep urkerweg emmeloord 256131,Brandgerucht op Urkerweg in Emmeloord,2023-10-31,16:21:16
+brandweer,u bent nu actief in de functie piket_brw_hoofdofficier 1.,Geen beschrijving beschikbaar,2023-10-31,16:17:54
+brandweer,u bent niet langer actief in de functie piket_brw_hoofdofficier 1.,Brandweer,2023-10-31,16:17:54
+brandweer,"prio 4 a12 re 8,0 sgravh ongeval wegvervoer materieel",Brandweer naar A12 in Den Haag voor Ongeval Wegvervoer Materieel,2023-10-31,16:15:50
+brandweer,"p 1 399294 letsel a59 re 98,2 den hout",Ongeval met letsel op A59 in Den Hout,2023-10-31,16:13:38
+brandweer,p 1 bdh-02 oms brandmelding ggz delfland / sociowoningen dertienhuizen delft 155530,Geen beschrijving beschikbaar,2023-10-31,16:12:03
+politie,1 ongeval wegvervoer letsel bst provincialeweg goedereede icnum 585962,Politie naar Provincialeweg in Goedereede voor ongeval met letsel,2023-10-31,16:24:18
+politie,"ongeval/wegvervoer/letsel prio 1 meppel a32 re 7,5",Ongeval met letsel op A32 in Meppel,2023-10-31,16:21:22
+politie,1 ongeval wegvervoer letsel oost-sidelinge rotterdam icnum 585947,Politie naar Oost-Sidelinge in Rotterdam voor ongeval met letsel,2023-10-31,16:19:58
+politie,1 ongeval wegvervoer letsel oost-sidelinge rotterdam icnum 585948,Politie naar Oost-Sidelinge in Rotterdam voor ongeval met letsel,2023-10-31,16:19:45
+politie,incident apeldoorn 684907 graag contact oc apeldoorn,Politie naar Apeldoorn,2023-10-31,16:16:50
+politie,aanrijding letsel dalweg zeist,Politie naar Dalweg in Zeist voor ongeval met letsel,2023-10-31,16:14:05
+ambulance,a2 dia: ja ambu 17136 bst provincialeweg goedereede goedrd bon 152832,Ambulance met gepaste spoed naar Provincialeweg in Goedereede,2023-10-31,16:24:18
+ambulance,a2 dia: ja ambu 17137 leuvehavenea rotterdam rottdm bon 152831,Ambulance met gepaste spoed naar Leuvehaven in Rotterdam,2023-10-31,16:22:57
+ambulance,a2 soest 111506,Ambulance met gepaste spoed naar Soest,2023-10-31,16:22:36
+ambulance,a2 ambulancepost noordwijk van berckelweg ndwkzh vws 16178,Ambulance voorwaarde scheppend naar van Berckelweg in Noordwijk,2023-10-31,16:22:26
+ambulance,a1 ceres katwzh : 16387,Ambulance met spoed naar Ceres in Katwijk,2023-10-31,16:22:08
+ambulance,a1 praktijk hoogh teylingen jacoba van beierenweg voorht : 16177,Ambulance met spoed naar Jacoba van Beierenweg in Voorhout,2023-10-31,16:21:37
+ambulance,b1 ambu 17204 vlietlandpleinjh schiedam schidm bon 152830,Ambulance naar Vlietlandplein in Schiedam,2023-10-31,16:21:18
+ambulance,a2 ambulancepost bergambacht veerweg bergab vws 16155,Ambulance voorwaarde scheppend naar Veerweg in Bergambacht,2023-10-31,16:21:03
+ambulance,b2 amsterdam 61515,Ambulance naar Amsterdam,2023-10-31,16:20:48
+ambulance,a2 dia: ja 12150 rit 146502 laan van blois beverwijk,Ambulance met gepaste spoed naar Laan van Blois in Beverwijk,2023-10-31,16:20:42
+ambulance,a2 13154 iepenrodelaan amstelveen 97903,Ambulance met gepaste spoed naar Iepenrodelaan in Amstelveen,2023-10-31,16:20:38
+ambulance,a2 nederhorst den berg 61514,Ambulance met gepaste spoed naar Nederhorst Den Berg,2023-10-31,16:20:35
+ambulance,a2 geldrop rit: 129508,Ambulance met gepaste spoed naar Geldrop,2023-10-31,16:20:16
+ambulance,a2 dia: ja ambu 17129 oost-sidelinge rotterdam rottdm bon 152829,Ambulance met gepaste spoed naar Oost-Sidelinge in Rotterdam,2023-10-31,16:19:33
+ambulance,b2 heeze rit: 129507,Ambulance naar Heeze,2023-10-31,16:18:18
+ambulance,a1 ambu 07103 dia driel rit 284383,Ambulance met spoed naar Driel,2023-10-31,16:18:14
+ambulance,a2 13119 marnixstraat amsterdam 97901,Ambulance met gepaste spoed naar Marnixstraat in Amsterdam,2023-10-31,16:18:12
+ambulance,ongeval materieel h gerhardstraat zaandam,Ambulance naar H Gerhardstraat in Zaandam voor ongeval zonder gewonden,2023-10-31,16:17:50
+ambulance,ongeval letsel westzanerweg zaandam,Ambulance naar Zaandam voor ongeval met letsel,2023-10-31,16:17:50
+ambulance,b1 ambu 08126 - nijmegen rit 284381,Ambulance naar Nijmegen,2023-10-31,16:17:43
+ambulance,a2 13114 tussen meer amsterdam 97900,Ambulance met gepaste spoed naar Tussen Meer in Amsterdam,2023-10-31,16:17:43
+ambulance,a2 ambu 07123 - ede rit 284382,Ambulance met gepaste spoed naar Ede,2023-10-31,16:17:43
+ambulance,a2 emmeloord 61513,Ambulance met gepaste spoed naar Emmeloord,2023-10-31,16:17:31
+ambulance,a2 tilburg rit: 161169,Ambulance met gepaste spoed naar Tilburg,2023-10-31,16:17:23
+ambulance,a2 almere 61512,Ambulance met gepaste spoed naar Almere,2023-10-31,16:16:55
+ambulance,a1 dia: ja 11127 rit 146499 smuiger assendelft,Ambulance met spoed naar Smuiger in Assendelft,2023-10-31,16:16:53
+ambulance,a2 zeist 111504,Ambulance met gepaste spoed naar Zeist,2023-10-31,16:16:40
+ambulance,a2 ambu 06128 dia apeldoorn rit 284379,Ambulance met gepaste spoed naar Apeldoorn,2023-10-31,16:15:59
+ambulance,b2 hz d12.2 dagcentr. volwassenen charlotte jacobsl sgravh : 15226,Ambulance naar Den Haag,2023-10-31,16:15:14
+ambulance,a2 13113 marnixstraat amsterdam 97899,Ambulance met gepaste spoed naar Marnixstraat in Amsterdam,2023-10-31,16:14:23
+ambulance,a1 zeist 111495,Ambulance met spoed naar Zeist,2023-10-31,16:14:05
+ambulance,a1 11139 rit 146497 ha landauer landauerstraat purmerend,Ambulance met spoed naar Landauerstraat in Purmerend,2023-10-31,16:13:59
+ambulance,a1 den hout rit: 161168 directe inzet: ja,Ambulance met spoed naar Den Hout,2023-10-31,16:13:38
+ambulance,b1 10mc190 rit 146496 rkz seh vondellaan beverwijk,Ambulance naar Vondellaan in Beverwijk,2023-10-31,16:13:37
+ambulance,a1 dia: ja 12146 rit 146495 lorentzplein haarlem,Ambulance met spoed naar Lorentzplein in Haarlem,2023-10-31,16:13:29
+ambulance,a2 ambu 07120 - voorthuizen rit 284378,Ambulance met gepaste spoed naar Voorthuizen,2023-10-31,16:13:05
+ambulance,a1 diemen 61511,Ambulance met spoed naar Diemen,2023-10-31,16:12:55
+ambulance,a2 ambulancepost noordwijk van berckelweg ndwkzh vws 16177,Ambulance voorwaarde scheppend naar van Berckelweg in Noordwijk,2023-10-31,16:12:54
+ambulance,a1 ambu 06158 - eibergen rit 284377,Ambulance met spoed naar Eibergen,2023-10-31,16:12:39
+ambulance,a2 ambu 08122 - beek ubbergen rit 284376,Ambulance met gepaste spoed,2023-10-31,16:12:39
+ambulance,a2 dp2 leidschendam - voorburg via donizetti voorb vws 15115,Ambulance voorwaarde scheppend naar Via Donizetti in Voorburg,2023-10-31,16:12:29
+ambulance,a2 ambu 06127 dia apeldoorn rit 284375,Ambulance met gepaste spoed naar Apeldoorn,2023-10-31,16:12:27
+ambulance,a2 leerdam 111503,Ambulance met gepaste spoed naar Leerdam,2023-10-31,16:12:16
+ambulance,a1 voorstraat nootdp : 15111,Ambulance met spoed naar Voorstraat in Nootdorp,2023-10-31,16:12:03
+ambulance,a1 13113 stammerdijk 1112 diemen 97897,Geen beschrijving beschikbaar,2023-10-31,16:11:44
+ambulance,a2 dia: ja ambu 17102 slotpleinhr capelle aan den ijssel capijs bon 152828,Ambulance met gepaste spoed naar Slotplein in Capelle Aan Den Ijssel,2023-10-31,16:11:26
+ambulance,a2 huisartsenpraktijk schipluiden windrecht schild : 15107,Ambulance met gepaste spoed naar Windrecht in Schipluiden,2023-10-31,16:11:10
+ambulance,a1 13164 confuciusplein amsterdam 97896,Ambulance met spoed naar Confuciusplein in Amsterdam,2023-10-31,16:10:35
+ambulance,b2 13212 j.m. van der meylaan amsterdam 97895,Ambulance naar J.M. van der Meylaan in Amsterdam,2023-10-31,16:10:18
+ambulance,a2 almere 61510,Ambulance met gepaste spoed naar Almere,2023-10-31,16:09:51

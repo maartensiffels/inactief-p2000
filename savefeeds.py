@@ -11,10 +11,15 @@ def create_csv_file(file_name):
             csv_writer = csv.writer(csvfile)
             csv_writer.writerow(["Discipline", "Titel", "Beschrijving", "Publicatiedatum", "Publicatietijd"])
 
+# Zorg ervoor dat de data-directory bestaat
+if not os.path.exists('data'):
+    os.makedirs('data')
+
 # Lijst van disciplines en bijbehorende RSS-feeds
 disciplines = {
     'brandweer': 'https://alarmeringen.nl/feeds/discipline/brandweer.rss',
     'politie': 'https://alarmeringen.nl/feeds/discipline/politie.rss',
+    'ambulance': 'https://alarmeringen.nl/feeds/discipline/ambulance.rss',
     'knrm': 'https://alarmeringen.nl/feeds/discipline/knrm.rss',
     'trauma': 'https://alarmeringen.nl/feeds/discipline/trauma.rss'
 }
@@ -25,9 +30,9 @@ current_year = now.year
 current_month = now.month
 
 # Bestandsnamen gebaseerd op het huidige jaar en de huidige maand
-all_time_file = 'alarmeringen.csv'
-current_year_file = f'alarmeringen_{current_year}.csv'
-current_month_file = f'alarmeringen_{current_year}_{current_month}.csv'
+all_time_file = 'data/alarmeringen.csv'
+current_year_file = f'data/alarmeringen_{current_year}.csv'
+current_month_file = f'data/alarmeringen_{current_year}_{current_month}.csv'
 
 # Maak de CSV-bestanden aan
 create_csv_file(all_time_file)

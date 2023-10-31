@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas requests beautifulsoup4
+          pip install feedparser
 
       - name: Run script
         run: python savefeeds.py
@@ -56,7 +56,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas requests beautifulsoup4
+          pip install feedparser
 
       - name: Run script
         run: python savefeeds.py

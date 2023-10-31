@@ -369,3 +369,73 @@ ambulance,a1 ambu 17140 endeldijk 3079vb rotterdam rottdm bon 152778,Geen beschr
 ambulance,a1 12146 rit 146438 garmt stuivelingstraat haarlem,Ambulance met spoed naar Garmt Stuivelingstraat in Haarlem,2023-10-31,14:48:58
 ambulance,b1 ambu 17207 dr. molewaterpleingd rotterdam rottdm bon 152777,Ambulance naar Dr. Molewaterplein in Rotterdam,2023-10-31,14:48:27
 ambulance,a2 almere directe inzet ambu: dia 61492,Ambulance met gepaste spoed naar Almere,2023-10-31,14:48:18
+brandweer,p 2 bnh-03 contact mkb 12-kazerne haarlem-oost floris van adrichemlaan haarlem 121205 121586 121283,Geen beschrijving beschikbaar,2023-10-31,15:18:29
+brandweer,p 1 bad-02 ass. politie deur openen eerste jan van der heijdenstraat amsterdam 133231,Brandweer met spoed naar Eerste Jan van der Heijdenstraat in Amsterdam  assistentie politie,2023-10-31,15:17:52
+brandweer,p 1 399217 letsel heusdenhoutsestraat breda,Geen beschrijving beschikbaar,2023-10-31,15:16:51
+brandweer,p 1 399213 letsel van hertumweg goes,Ongeval met letsel op van Hertumweg in Goes,2023-10-31,15:13:14
+brandweer,"p 1 399216 letsel n59 li 16,7 zierikzee",Ongeval met letsel in Zierikzee,2023-10-31,15:12:35
+brandweer,p 1 lvo voorzorg baan 18c spl ugs-a zwanenburgbaan schiphol,Brandweer met spoed,2023-10-31,15:10:50
+brandweer,p 2 bnh-20 lvo voorzorg baan 18c spl ugs-a zwanenburgbaan schiphol 121293 129230 129291,Brandweer met gepaste spoed,2023-10-31,15:10:20
+brandweer,p 2 intrekken alarm brw oms brandmelding woonzorgcentrum lelypark - koopvleugel lelypark wieringerwerf,Automatisch brandalarm op Lelypark in Wieringerwerf,2023-10-31,15:09:35
+brandweer,u bent nu actief in de functie piket_brw_tl-tdv_dienst actief.,Brandweer,2023-10-31,15:07:52
+brandweer,p 1 399209 letsel potlodenlaan marconilaan-noord potlodenlaan bergen op zoom,Ongeval met letsel op Potlodenlaan in Bergen Op Zoom,2023-10-31,15:07:10
+brandweer,p 2 bnh-02 oms brandmelding woonzorgcentrum lelypark - koopvleugel lelypark wieringerwerf 105035,Automatisch brandalarm op Lelypark in Wieringerwerf,2023-10-31,15:05:48
+brandweer,p 1 bnh-01 reanimatie john deelaan hoofddorp 124330,Assistentie bij reanimatie op John Deelaan in Hoofddorp,2023-10-31,15:05:37
+brandweer,p 1 bon-03 br woning homberg wijchen 083331,Woningbrand op Homberg in Wijchen,2023-10-31,15:05:34
+brandweer,"prio 4 a20 re 40,5 nwkkij bijzondere verkeerszaken",Brandweer naar A20 in Nieuwerkerk Aan Den Ijssel,2023-10-31,15:04:59
+brandweer,p 1 bon-02 stank/hind. lucht gaslucht binnen burgemeester bruinemanstraat druten 084431,Gaslucht op Burgemeester Bruinemanstraat in Druten,2023-10-31,15:03:52
+brandweer,p 1 bon-01 br winkel zuiderzeestraatweg wezep 061861,Brandweer met spoed naar Zuiderzeestraatweg in Wezep,2023-10-31,14:59:31
+politie,"2 ongeval wegvervoer materieel a4 ben-tunnel e buis 72.6-73.7 oostbaan 73,4 rotterdam icnum 585844",Politie naar A4 in Rotterdam voor Ongeval Wegvervoer Materieel,2023-10-31,15:17:29
+politie,ongeval wegvervoer letsel heschewegaa oss,Politie naar Hescheweg in Oss voor ongeval met letsel,2023-10-31,15:07:25
+politie,ongeval/wegvervoer/letsel prio 1 hoogezand burg v roijenstr oost,Ongeval met letsel op Burg v Roijenstr Oost in Hoogezand,2023-10-31,15:00:24
+ambulance,a1 13162 eerste jan van der heijdenstraat amsterdam 97872,Ambulance met spoed naar Eerste Jan van der Heijdenstraat in Amsterdam,2023-10-31,15:17:52
+ambulance,a2 ambu 17107 seringenstraatnv maassluis maassl bon 152804,Ambulance met gepaste spoed naar Seringenstraat in Maassluis,2023-10-31,15:17:40
+ambulance,a2 dia: ja 12157 rit 146457 velserweg beverwijk,Ambulance met gepaste spoed naar Velserweg in Beverwijk,2023-10-31,15:17:18
+ambulance,a2 12143 rit 146456 wolgrasstraat lisserbroek,Ambulance met gepaste spoed naar Wolgrasstraat in Lisserbroek,2023-10-31,15:17:10
+ambulance,8,Geen beschrijving beschikbaar,2023-10-31,15:16:52
+ambulance,u bent niet langer actief in de functie piket_vrr_lkpsh.,Geen beschrijving beschikbaar,2023-10-31,15:16:52
+ambulance,u bent nu actief in de functie piket_vrr_lkpsh.,Ambulance,2023-10-31,15:16:52
+ambulance,a1 ambu 06189 - wapenveld rit 28431,Ambulance met spoed naar Wapenveld,2023-10-31,15:16:51
+ambulance,a2 julianakerk schalk burgerstraat sgravh : 15340,Ambulance met gepaste spoed naar Schalk Burgerstraat in Den Haag,2023-10-31,15:16:46
+ambulance,a1 13119 kalverstraat amsterdam 97871,Ambulance met spoed naar Kalverstraat in Amsterdam,2023-10-31,15:16:37
+ambulance,a1 hoevenbos zoetmr : 15146,Ambulance met spoed naar Hoevenbos in Zoetermeer,2023-10-31,15:16:21
+ambulance,a2 helmond rit: 129484,Ambulance met gepaste spoed naar Helmond,2023-10-31,15:15:25
+ambulance,a2 zierikzee rit: 161137,Ambulance met gepaste spoed naar Zierikzee,2023-10-31,15:15:23
+ambulance,a2 uden rit: 129483,Ambulance met gepaste spoed naar Uden,2023-10-31,15:15:21
+ambulance,a1 ambu 06342 - apeldoorn rit 284316,Ambulance met spoed naar Apeldoorn,2023-10-31,15:15:10
+ambulance,a1 deurne rit: 129482,Ambulance met spoed naar Deurne,2023-10-31,15:15:03
+ambulance,a1 13108 tussen meer amsterdam 97870,Ambulance met spoed naar Tussen Meer in Amsterdam,2023-10-31,15:15:01
+ambulance,a2 ambu 06164 dia wapenveld rit 284315,Geen beschrijving beschikbaar,2023-10-31,15:14:37
+ambulance,a1 10102 rit 146455 krelagehof bovenkarspel,Ambulance met spoed naar Krelagehof in Bovenkarspel,2023-10-31,15:14:33
+ambulance,a2 dia: ja ambu 17120 fokkemasttb krimpen aan den ijssel krimij bon 152803,Ambulance met gepaste spoed naar Fokkemast in Krimpen Aan Den Ijssel,2023-10-31,15:13:31
+ambulance,b2 ambu 17404 thomas mannplaatsne rotterdam rottdm bon 152802,Ambulance naar Thomas Mannplaats in Rotterdam,2023-10-31,15:13:16
+ambulance,a2 dia: ja ambu 17349 van der waalswegxn barendrecht bardrt bon 152801,Ambulance met gepaste spoed naar Van der Waalsweg in Barendrecht,2023-10-31,15:13:05
+ambulance,b1 12240 rit 146453 diakenhuisweg haarlem,Ambulance naar Diakenhuisweg in Haarlem,2023-10-31,15:13:01
+ambulance,a2 ds heldringlaan rijszh : 15223,Ambulance met gepaste spoed naar Ds Heldringlaan in Rijswijk,2023-10-31,15:12:52
+ambulance,a2 goes rit: 161135 directe inzet: ja,Ambulance met gepaste spoed naar Goes,2023-10-31,15:12:50
+ambulance,a2 ambu 17111 hoorntandmosak rotterdam rottdm bon 152800,Ambulance met gepaste spoed naar Hoorntandmos in Rotterdam,2023-10-31,15:11:50
+ambulance,a1 bunnik 111480,Ambulance met spoed naar Bunnik,2023-10-31,15:11:12
+ambulance,a1 dia: ja ambu 17161 n218 - groene kruisweg geervliet geervl bon 152799,Ambulance met spoed naar Groene Kruisweg in Geervliet,2023-10-31,15:11:05
+ambulance,b2 13219 jan tooropstraat 1061 amsterdam 97869,Geen beschrijving beschikbaar,2023-10-31,15:11:01
+ambulance,b1 lumc c4-q cvic hart catheterisatie einthovenweg leiden : 16172,Ambulance naar Einthovenweg in Leiden,2023-10-31,15:10:39
+ambulance,b2 ambu 07204 - doorwerth rit 284313,Ambulance naar Doorwerth,2023-10-31,15:10:29
+ambulance,b1 van foreestweg delft : 15223,Ambulance naar Van Foreestweg in Delft,2023-10-31,15:10:07
+ambulance,a1 dia: ja ambu 18176 fuutlaandc groot-ammers groota bon 152797,Ambulance met spoed naar Fuutlaan in Groot-Ammers,2023-10-31,15:09:39
+ambulance,a2 eindhoven rit: 129481,Ambulance met gepaste spoed naar Eindhoven,2023-10-31,15:09:14
+ambulance,b2 13215 meibergdreef amsterdam 97868,Ambulance naar Meibergdreef in Amsterdam,2023-10-31,15:08:59
+ambulance,a1 ambu 08118 - nijmegen rit 284310,Ambulance met spoed naar Nijmegen,2023-10-31,15:08:58
+ambulance,a2 almere directe inzet ambu: dia 61500,Ambulance met gepaste spoed naar Almere,2023-10-31,15:08:58
+ambulance,a2 ambu 06188 br winkel wezep rit 284302,Ambulance met gepaste spoed naar Wezep,2023-10-31,15:08:12
+ambulance,a2 zwolle 61499,Ambulance met gepaste spoed naar Zwolle,2023-10-31,15:07:29
+ambulance,b1 ambu 17201 dr. molewaterpleingd rotterdam rottdm bon 152795,Ambulance naar Dr. Molewaterplein in Rotterdam,2023-10-31,15:07:22
+ambulance,a1 munsterstraat roermond 92013,Ambulance met spoed naar Munsterstraat in Roermond,2023-10-31,15:07:18
+ambulance,a1 bergen op zoom rit: 161134 directe inzet: ja,Ambulance met spoed naar Bergen Op Zoom,2023-10-31,15:07:10
+ambulance,b1 ambu 06202 - apeldoorn rit 284308,Ambulance naar Apeldoorn,2023-10-31,15:07:03
+ambulance,b2 13218 eerste constantijn huygensstraat amsterdam 97867,Ambulance naar Eerste Constantijn Huygensstraat in Amsterdam,2023-10-31,15:06:56
+ambulance,b2 ambu 08206 - tiel rit 284306,Ambulance naar Tiel,2023-10-31,15:06:23
+ambulance,a1 amersfoort 111479,Ambulance met spoed naar Amersfoort,2023-10-31,15:06:19
+ambulance,a2 ambu 06154 - varsseveld rit 284307,Ambulance met gepaste spoed naar Varsseveld,2023-10-31,15:06:14
+ambulance,b2 ambu 17406 dr. molewaterpleingd rotterdam rottdm bon 152794,Ambulance naar Dr. Molewaterplein in Rotterdam,2023-10-31,15:06:05
+ambulance,a2 melis stokelaan sgravh : 15126,Ambulance met gepaste spoed naar Melis Stokelaan in Den Haag,2023-10-31,15:06:01
+ambulance,a2 13123 vijzelstraat 1017 amsterdam 97866,Geen beschrijving beschikbaar,2023-10-31,15:05:40
+trauma,a1 dia: ja ambu 17992 professor de snoolaanbb geervliet geervl bon 152788,Traumaheli naar Professor de Snoolaan in Geervliet,2023-10-31,14:59:09

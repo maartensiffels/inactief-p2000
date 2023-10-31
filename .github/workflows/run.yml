@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser
+          pip install feedparser pytz
 
       - name: Run script
         run: python savefeeds.py
@@ -56,7 +56,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser
+          pip install feedparser pytz
 
       - name: Run script
         run: python savefeeds.py

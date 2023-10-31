@@ -19,7 +19,6 @@ if not os.path.exists('data'):
 disciplines = {
     'brandweer': 'https://alarmeringen.nl/feeds/discipline/brandweer.rss',
     'politie': 'https://alarmeringen.nl/feeds/discipline/politie.rss',
-    'ambulance': 'https://alarmeringen.nl/feeds/discipline/ambulance.rss',
     'knrm': 'https://alarmeringen.nl/feeds/discipline/knrm.rss',
     'trauma': 'https://alarmeringen.nl/feeds/discipline/trauma.rss'
 }

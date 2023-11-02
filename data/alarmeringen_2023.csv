@@ -1758,3 +1758,51 @@ brandweer,p 1 bad-01 reanimatie stn duivendrecht spoor 1 531 amsterdam-duivendre
 politie,"1 afgevallen lading bst a15 re - steenenhoek 90,7 hardinxveld-giessend icnum 589253",Politie naar A15 in Hardinxveld-Giessendam,2023-11-02,11:39:22
 trauma,a1 13991 stationsplein duivendrecht 98483,Traumaheli naar Stationsplein in Duivendrecht,2023-11-02,11:43:50
 trauma,a1 13991 stn duiven spoor 1 wy duiven 98482,Traumaheli,2023-11-02,11:41:12
+brandweer,p 2 bob-06 stormschade dak torenallee eindhoven 222451,Stormschade op Torenallee in Eindhoven,2023-11-02,12:02:50
+brandweer,p 2 bzb-10 stormschade zr will van hooijdonkstraat putte 201443,Stormschade op Zr Will van Hooijdonkstraat in Putte,2023-11-02,12:02:29
+brandweer,p 2 bon-09 stormschade kanaal zuid apeldoorn 062651,Geen beschrijving beschikbaar,2023-11-02,12:02:13
+brandweer,p 2 bon-17 stormschade van heemstraweg winssen 084231,Stormschade op van Heemstraweg in Winssen,2023-11-02,12:01:50
+brandweer,p 2 bad-07 stormschade pampuslaan weesp 134151 134531,Stormschade op Pampuslaan in Weesp,2023-11-02,12:00:59
+brandweer,p 2 bob-09 stormschade hoogeindseweg oost west en middelbeers 223941,Brandweer met gepaste spoed voor Stormschade,2023-11-02,12:00:29
+brandweer,p 2 bad-06 water-/weerprobl. opst. lokaal afh. gmk amsterdam elandsgracht amsterdam 139190,Brandweer met gepaste spoed naar Elandsgracht in Amsterdam,2023-11-02,12:00:16
+brandweer,p 2 bmd-04 stormschade geert van mesdagweg hilversum 147164 142131,Stormschade in Hilversum,2023-11-02,11:59:43
+brandweer,p 1 bad-05 stank/hind. lucht gaslucht binnen boost danie theronstraat amsterdam 133431,Gaslucht op Danie Theronstraat in Amsterdam,2023-11-02,11:59:43
+brandweer,p 2 bzb-09 stormschade frederikstraat tilburg 209452,Stormschade op Frederikstraat in Tilburg,2023-11-02,11:59:39
+brandweer,p 1 blb-07 autom. gev. stof ags graaf van waldeckstraat maastricht 243621,Brandweer met spoed naar Graaf van Waldeckstraat in Maastricht,2023-11-02,11:59:29
+brandweer,p 1 blb-07 br woning graaf van waldeckstraat maastricht 243051 243591 244031 243531,Woningbrand op Graaf van Waldeckstraat in Maastricht,2023-11-02,11:59:29
+brandweer,p 1 brt-03 br winkel schieweg rotterdam 170551 170531 170631 179192,Brandweer met spoed naar Schieweg in Rotterdam,2023-11-02,11:59:02
+brandweer,p 2 bad-03 ass. ambu afhijsen sint willibrordusstraat amsterdam 133551 133531,Assistentie ambulance voor afhijsen patiënt op Sint Willibrordusstraat in Amsterdam,2023-11-02,11:58:39
+brandweer,p 2 bon-16 stormschade bijland tolkamer 075931,Stormschade op Bijland in Tolkamer,2023-11-02,11:58:31
+brandweer,p 2 bob-19 stormschade harp 's-hertogenbosch 212032,Stormschade op Harp in Den Bosch,2023-11-02,11:58:29
+brandweer,p 2 bzb-08 oms brandmelding stichting kio van der biltplein van der biltplein heinkenszand 194736,Automatisch brandalarm op van der Biltplein in Heinkenszand,2023-11-02,11:57:47
+brandweer,p 2 bon-15 stormschade banweg oude waag beesd 089331,Stormschade op Banweg in Beesd,2023-11-02,11:56:16
+brandweer,p 2 bob-18 stormschade kruishoeveweg cromvoirt 214641,Stormschade in Cromvoirt,2023-11-02,11:55:54
+brandweer,p 2 bzb-06 stormschade bernhardstraat waalwijk 207131 207151,Stormschade op Bernhardstraat in Waalwijk,2023-11-02,11:55:33
+brandweer,p 2 bon-14 stormschade buitenpolder haalderen 074931,Geen beschrijving beschikbaar,2023-11-02,11:55:20
+brandweer,p 2 stormschade fazantenlaan zeist 096631,Stormschade op Fazantenlaan in Zeist,2023-11-02,11:54:53
+brandweer,p 1 bdh-06 ongeval lichte thv buiten jumbo volendamlaan 's-gravenhage 157487 157480,Ongeval op Volendamlaan in Den Haag,2023-11-02,11:54:44
+brandweer,p 1 bdh-06 ongeval lichte thv binnen jumbo volendamlaan 's-gravenhage 157770 157830 159601,Ongeval op Volendamlaan in Den Haag,2023-11-02,11:54:44
+brandweer,p 2 bob-17 stormschade lijsterbesstraat eindhoven 224641,Stormschade op Lijsterbesstraat in Eindhoven,2023-11-02,11:54:31
+brandweer,"p 2 stormschade a12 li 44,4 woerden 092531",Stormschade op A12 in Woerden,2023-11-02,11:54:11
+brandweer,p 2 bob-04 stormschade commissaris de quaylaan 's-hertogenbosch 212031,Stormschade op Commissaris De Quaylaan in Den Bosch,2023-11-02,11:54:11
+brandweer,p 1 blb-06 br woning schoorsteen spaarweiden landgraaf 243151 243891 244441 244241,Geen beschrijving beschikbaar,2023-11-02,11:53:57
+brandweer,p 2 bon-13 stormschade a73 re - neerbosscheweg nijmegen 089232,Stormschade op Neerbosscheweg in Nijmegen,2023-11-02,11:53:52
+brandweer,u bent niet langer actief in de functie ovd-bz dsz piket.,Brandweer,2023-11-02,11:53:28
+brandweer,u bent nu actief in de functie ovd-bz dsz piket.,Brandweer,2023-11-02,11:53:28
+brandweer,p 1 br overige geb. parkeergarage parkeergarage zoomstede nieuwegein 098533,Brandweer met spoed naar Zoomstede in Nieuwegein,2023-11-02,11:53:09
+brandweer,p 2 bob-06 stormschade gerard philipslaan de jonghlaan eindhoven 222332,Stormschade op Gerard Philipslaan in Eindhoven,2023-11-02,11:53:05
+brandweer,p 2 bon-12 stormschade mosselsepad otterlo 072341,Geen beschrijving beschikbaar,2023-11-02,11:52:18
+brandweer,p 2 brt-02 stormschade quadenoord rotterdam 173751,Stormschade op Quadenoord in Rotterdam,2023-11-02,11:52:18
+brandweer,p 2 bzb-07 stormschade ringbaan-noord tilburg 209031,Stormschade op Ringbaan-Noord in Tilburg,2023-11-02,11:51:46
+brandweer,"0451, stromschade vlaardingen, gaarna contact dcu op 471 niet statussen",Brandweer naar Vlaardingen,2023-11-02,11:51:27
+brandweer,p 2 bob-16 stormschade gebroeders de koningstraat herbertuslaan heeze 223041,Stormschade op Gebroeders de Koningstraat in Heeze,2023-11-02,11:51:26
+brandweer,"p 2 bob-12 stormschade n65 li - helvoirtseweg 7,8 vught 211941",Geen beschrijving beschikbaar,2023-11-02,11:51:24
+brandweer,p 2 bon-11 stormschade kalverbos tiel 088532,Stormschade op Kalverbos in Tiel,2023-11-02,11:51:24
+brandweer,p 2 bnh-01 ongeval gaslekkage buiten steijnstraat wormerveer 110881,Gaslek op Steijnstraat in Wormerveer,2023-11-02,11:50:57
+brandweer,p2 stormschade maaswijkweg spijkenisse 173131 niet statussen inmelden snelkeuze 476,Brandweer naar Maaswijkweg in Spijkenisse voor Stormschade,2023-11-02,11:50:48
+brandweer,p 2 brt-02 stormschade quadenoord rotterdam 170331,Stormschade op Quadenoord in Rotterdam,2023-11-02,11:50:27
+brandweer,p 2 bon-10 stormschade n320 rijswijk gld 087531,Stormschade op N320 in Rijswijk,2023-11-02,11:50:24
+brandweer,p 1 bdh-06 ongeval lichte thv binnen ovd-b jumbo volendamlaan 's-gravenhage 159591,Ongeval op Volendamlaan in Den Haag,2023-11-02,11:49:56
+brandweer,p 2 bon-09 stormschade kanaal zuid apeldoorn 063331,Stormschade op Kanaal Zuid in Apeldoorn,2023-11-02,11:49:50
+brandweer,p 2 bad-02 stormschade oostermeerweg amstelveen 135151 135132,Stormschade op Oostermeerweg in Amstelveen,2023-11-02,11:49:26
+trauma,a1 dia: ja ambu 17992 volendamlaanck 's-gravenhage sgravh bon 153793,Traumaheli naar Volendamlaan in Den Haag,2023-11-02,11:49:14

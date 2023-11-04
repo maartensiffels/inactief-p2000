@@ -5302,3 +5302,15 @@ politie,aanrijding letsel voetbalvereniging hattem konijnenbergerweg hattem 6960
 politie,"aanrijding letsel toerit a6 li - lelystad-airport 9 72,3 d lelystad",Politie naar A6 in Lelystad voor ongeval met letsel,2023-11-04,17:48:42
 politie,ongeval/wegvervoer/letsel prio 1 jubbega gorredijksterweg n380 - schoterlandseweg,Ongeval met letsel op Gorredijksterweg in Jubbega,2023-11-04,17:48:28
 politie,"aanrijding letsel a2 li - knooppunt oudenrijn 63,1 n utrecht",Politie naar A2 in Utrecht voor ongeval met letsel,2023-11-04,17:45:27
+brandweer,p 2 br gerucht shl appartem. stairway gebouw 21335 ray connifpad utrecht 094431,Brandgerucht op Ray Connifpad in Utrecht,2023-11-04,18:11:50
+brandweer,##settime 18:11:00 05-11-2023##,Brandweer,2023-11-04,18:11:08
+brandweer,"prio 2 a4 li 37,1 leiddm ongeval wegvervoer materieel",Ongeval wegvervoer materieel op A4 in Leidschendam,2023-11-04,18:02:40
+brandweer,p 1 bon-01 br wegvervoer vrachtauto h.j. van heekplein enschede 054131,Voertuigbrand op H.J. van Heekplein in Enschede,2023-11-04,17:59:35
+brandweer,test,Geen beschrijving beschikbaar,2023-11-04,17:59:31
+brandweer,"prio 4 a4 li 51,3 rijszh wegverkeer verkeersstremming soort stremming: pechgeval",Brandweer naar A4 in Rijswijk,2023-11-04,17:58:48
+brandweer,"prio 2 a4 li 29,4 leiddp bijzondere verkeerszaken",Brandweer met gepaste spoed naar A4 in Leiderdorp,2023-11-04,17:58:42
+brandweer,"prio 1 a4 li 36,7 leiden ongeval wegvervoer materieel",Ongeval wegvervoer materieel op A4 in Leiden,2023-11-04,17:56:09
+politie,1 ongeval wegvervoer letsel westlandseweg maassluis icnum 594518,Politie naar Westlandseweg in Maassluis voor ongeval met letsel,2023-11-04,18:11:59
+politie,"prio 1 a4 li 37,1 leiddm ongeval wegvervoer letsel",Ongeval met letsel op A4 in Leidschendam,2023-11-04,18:06:50
+politie,contact oc apeldoorn gms 696071,Politie naar Apeldoorn,2023-11-04,18:02:05
+politie,aanrijding letsel anthony fokkerstraat charles storkstraat zwolle 696068,Politie naar Anthony Fokkerstraat in Zwolle voor ongeval met letsel,2023-11-04,18:00:51

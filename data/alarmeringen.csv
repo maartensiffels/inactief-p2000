@@ -7040,3 +7040,16 @@ politie,prio 1 schouwburg generaal spoorlaan rijszh ongeval wegvervoer letsel,On
 politie,verkeer/wegverkeer/verkeersstremming prio 3 heerenveen brug rottumerbrug rottumerweg,Politie zonder spoed naar Rottumerweg in Heerenveen,2023-11-06,16:45:41
 politie,"prio 1 a4 re 44,1 m sgravh ongeval wegvervoer letsel",Ongeval met letsel op A4 in Den Haag,2023-11-06,16:44:52
 politie,"ongeval wegvervoer letsel a2 li 116,4 n 's-hertogenbosch",Politie naar A2 in Den Bosch voor ongeval met letsel,2023-11-06,16:43:39
+brandweer,p 1 bdh-04 br wegvervoer houtex noordkade waddinxveen 169282,Voertuigbrand op Noordkade in Waddinxveen,2023-11-06,16:56:44
+brandweer,"p 1 bob-01 hv weg letsel n69 li - westparallel 39,1 riethoven 225193 225042 221141 222171",Ongeval met letsel op N69 in Riethoven,2023-11-06,16:55:42
+brandweer,##settime 16:54:00 06-11-2023##,Brandweer,2023-11-06,16:54:06
+brandweer,p 2 bon-02 stormschade 1e weteringsewal elst ge 074231,Stormschade op 1e Weteringsewal in Elst,2023-11-06,16:53:35
+brandweer,proefalarm voor deze pager,Brandweer met spoed voor Proefalarm,2023-11-06,16:51:22
+politie,ongeval wegvervoer letsel dorpstraathd veldhoven,Politie naar Dorpstraat in Veldhoven voor ongeval met letsel,2023-11-06,16:59:20
+politie,"ongeval wegvervoer letsel n69 li - westparallel 39,1 riethoven",Geen beschrijving beschikbaar,2023-11-06,16:53:20
+politie,ongeval wegvervoer letsel n69 li - westparallel riethoven,Politie naar N69 in Riethoven voor ongeval met letsel,2023-11-06,16:52:54
+politie,3 dier in problemen sportlaan rhoon icnum 598119,Politie naar Sportlaan in Rhoon,2023-11-06,16:52:35
+politie,aanrijding letsel mozartlaan bachlaan nijverdal 700778,Politie naar Mozartlaan in Nijverdal voor ongeval met letsel,2023-11-06,16:49:15
+trauma,"a1 ambu 08993 - riethoven n6939.1 39,1 rit 291020",Traumaheli naar Riethoven,2023-11-06,16:55:20
+trauma,a1 mmt 13991 burg grothestraat soest 99906/ regio 09,Traumaheli naar Burg Grothestraat in Soest,2023-11-06,16:50:26
+trauma,a1 mmt 13991 larserplein lelystad 99874/ regio 25,Traumaheli naar Larserplein in Lelystad,2023-11-06,16:49:46

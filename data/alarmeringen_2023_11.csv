@@ -5925,3 +5925,9 @@ brandweer,"p 2 brt-01 grip 1 wateroverlast controleur preventie, ovd-b stichting
 brandweer,p 2 bon-01 dv brw deur openen nieuwe stationsstraat ede 072731,Brandweer met gepaste spoed naar Nieuwe Stationsstraat in Ede,2023-11-06,04:57:01
 trauma,a1 dia: ja ambu 17902 oranjeboomstraatbp rotterdam rottdm bon 155805,Traumaheli naar Oranjeboomstraat in Rotterdam,2023-11-06,04:56:35
 brandweer,p 2 bzb-01 oms brandmelding schutz benelux bv m413 westelijke randweg klundert 201133,Automatisch brandalarm op Westelijke Randweg in Klundert,2023-11-06,05:26:41
+brandweer,"p 1 bdh-01 ongeval wegvervoer a4 li 43,1 leidschendam 155170 159630 159591",Ongeval op A4 in Leidschendam,2023-11-06,06:04:59
+brandweer,"prio 4 a4 li 43,1 leiddm ongeval wegvervoer materieel",Brandweer naar A4 in Leidschendam voor Ongeval Wegvervoer Materieel,2023-11-06,06:01:10
+brandweer,p 1 bnh-20 oms brandmelding e pier rinse hofstraweg schiphol 129230,Automatisch brandalarm op Rinse Hofstraweg in Schiphol,2023-11-06,06:00:54
+brandweer,p 1 bad-01 ass. politie deur openen naaldwijkstraat amsterdam 139233,Brandweer met spoed naar Naaldwijkstraat in Amsterdam  assistentie politie,2023-11-06,05:53:57
+politie,"prio 1 a4 li 43,1 leiddm ongeval wegvervoer letsel",Ongeval met letsel op A4 in Leidschendam,2023-11-06,06:03:29
+politie,piket gaarne contact oc rotterdam,Politie naar Rotterdam,2023-11-06,05:58:38

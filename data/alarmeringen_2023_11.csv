@@ -9603,3 +9603,17 @@ brandweer,p 1 brt-01 ongeval gaslekkage binnen pottenbakkerstraat ridderkerk 173
 politie,m,Geen beschrijving beschikbaar,2023-11-10,08:53:06
 politie,ivm een telefoonstoring is bureau comm vandaag allen te bereiken via 06XXXXXXXX,Politie,2023-11-10,08:50:29
 politie,"3 afgevallen lading n3 re - rondweg 5,2 dordrecht icnum 606233",Politie naar Dordrecht,2023-11-10,08:48:44
+brandweer,p 1 brt-02 oms handmelder asvz 2e object lena blok-woutsstraat rotterdam 171031,Automatisch brandalarm (handmelder) op Lena Blok-Woutsstraat in Rotterdam,2023-11-10,09:16:50
+brandweer,p 1 bon-02 ass. ambu afhijsen dorus rijkersstraat borne 051151,Assistentie ambulance voor afhijsen patiënt op Dorus Rijkersstraat in Borne,2023-11-10,09:15:09
+brandweer,p 1 bdh-03 oms brandmelding telecomplein maanplein 's-gravenhage 157430,Automatisch brandalarm op Maanplein in Den Haag,2023-11-10,09:14:22
+brandweer,p 1 bdh-02 oms brandmelding wzh oosterheem florence nightingalelaan zoetermeer 155330,Automatisch brandalarm op Florence Nightingalelaan in Zoetermeer,2023-11-10,09:12:58
+brandweer,p 5 contact mkb c2000 opstelpunt eikelenburglaan rijswijk zh,Brandweer naar Eikelenburglaan in Rijswijk,2023-11-10,09:08:59
+brandweer,p 2 bad-02 stormschade westerstraat amsterdam 139252,Stormschade op Westerstraat in Amsterdam,2023-11-10,09:08:31
+brandweer,p 1 bad-01 ass. politie deur openen marcantilaan amsterdam 133331,Brandweer met spoed naar Marcantilaan in Amsterdam  assistentie politie,2023-11-10,09:06:50
+brandweer,u bent niet langer actief in de functie piket_vrr_pc-log.,Brandweer,2023-11-10,09:05:35
+brandweer,u bent nu actief in de functie piket_vrr_pc-log.,Brandweer,2023-11-10,09:05:35
+brandweer,spoedambu hermes,Brandweer,2023-11-10,08:59:36
+brandweer,p 2 bdh-01 oms brandmelding dirk parkeergarage raadhuisstraat noordwijk zh 161830,Automatisch brandalarm op Raadhuisstraat in Noordwijk,2023-11-10,08:59:31
+politie,prio 1 eikenlaan seringenstraat alphrn ongeval wegvervoer letsel,Ongeval met letsel op Eikenlaan in Alphen Aan Den Rijn,2023-11-10,09:12:56
+politie,p 3 ongeval wegvervoer letsel gelderlandplein amsterdam,Politie naar Gelderlandplein in Amsterdam voor ongeval met letsel,2023-11-10,09:09:52
+politie,ongeval/wegvervoer/letsel prio 1 groningen bornholmstraat,Ongeval met letsel op Bornholmstraat in Groningen,2023-11-10,09:04:52

@@ -12200,3 +12200,15 @@ brandweer,p 2 bnn-04 ass. ambu tilassistentie driebondsweg groningen 011832,Assi
 brandweer,p 2 bnh-01 oms gev. stof ofi olam cocoa kza bijenkorfstraat zaandijk 110292 118531,Automatisch brandalarm in Zaandijk,2023-11-12,16:41:37
 brandweer,p 1 415847 letsel bosdreef liniedijk bosdreef axel,Ongeval met letsel op Bosdreef in Axel,2023-11-12,16:41:20
 brandweer,p 1 blb-03 ass. ambu afhijsen nieuwstraat kerkrade 244441 243151,Assistentie ambulance voor afhijsen patiënt op Nieuwstraat in Kerkrade,2023-11-12,16:39:24
+brandweer,"prio 4 a12 re 32,0 reeuwk wegverkeer verkeersstremming",Brandweer naar A12 in Reeuwijk,2023-11-12,16:59:57
+brandweer,p 2 wateroverlast kortenaerstraat rotterdam,Wateroverlast op Kortenaerstraat in Rotterdam,2023-11-12,16:59:25
+brandweer,p 2 bon-05 hv overig gaslekkage buiten esso veelsveld a1 l 164.6 a1 re deurningen dinkelland 052131,Gaslek op A1,2023-11-12,16:58:56
+brandweer,p 1 bob-01 br woning inzet op gr. hoogte appartement molenstraat helmond 225191 223251 223231 223241,Woningbrand op Molenstraat in Helmond,2023-11-12,16:56:01
+brandweer,p 2 brt-03 co-melder obrechtstraat dordrecht 186631,Brandweer met gepaste spoed naar Obrechtstraat in Dordrecht,2023-11-12,16:55:33
+brandweer,p 2 bmd-03 wateroverlast generaal de la reijlaan bussum 141232,Wateroverlast op Generaal de la Reijlaan in Bussum,2023-11-12,16:50:11
+brandweer,p 2 bdh-01 brandgerucht gravendreef 's-gravenhage 157730,Brandgerucht op Gravendreef in Den Haag,2023-11-12,16:49:40
+brandweer,p 2 bmd-02 liftopsluiting eikenlaan loosdrecht 142731,Assistentie bij liftopsluiting op Eikenlaan in Loosdrecht,2023-11-12,16:48:41
+politie,3 dier in problemen afrit a15 li - rotterdam-charlois 19 rotterdam icnum 610971,Politie naar A15 in Rotterdam,2023-11-12,16:56:11
+politie,aanrijding letsel derde oosterparklaan utrecht,Politie naar Derde Oosterparklaan in Utrecht voor ongeval met letsel,2023-11-12,16:55:09
+politie,2 ongeval wegvervoer materieel olympiaweg rotterdam icnum 610955,Politie naar Olympiaweg in Rotterdam voor Ongeval Wegvervoer Materieel,2023-11-12,16:50:59
+trauma,a1 13991 derde oosterparklaan utrecht 101914 regio 09,Traumaheli naar Derde Oosterparklaan in Utrecht,2023-11-12,16:55:09

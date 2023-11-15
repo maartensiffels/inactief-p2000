@@ -14205,3 +14205,36 @@ brandweer,p 1 bdh-01 reanimatie merellaan rijswijk zh 159661,Assistentie bij rea
 brandweer,p 1 bon-01 br cel celgebouw trajectum obc panovenweg rekken 069591 054541 495332,Brandweer met spoed naar Panovenweg in Rekken,2023-11-15,12:53:24
 brandweer,p 1 bzb-02 br woning gouddonk breda 203133,Woningbrand op Gouddonk in Breda,2023-11-15,12:48:35
 brandweer,p 2 bad-01 brandgerucht betreft: oms flora holland centrum legmeerdijk aalsmeer 135231,Brandgerucht op Legmeerdijk in Aalsmeer,2023-11-15,12:48:09
+brandweer,p 2 bad-02 ass. ambu afhijsen olympiaweg amsterdam 132651 133231,Assistentie ambulance voor afhijsen patiënt op Olympiaweg in Amsterdam,2023-11-15,13:36:31
+brandweer,p 2 br buiten brandweerkazerne amersfoort noord het hofslot amersfoort 090231,Geen beschrijving beschikbaar,2023-11-15,13:32:44
+brandweer,p 1 bdh-03 oms brandmelding milk & cookies 1e sweelinckstraat 's-gravenhage 159631,Automatisch brandalarm op 1e Sweelinckstraat in Den Haag,2023-11-15,13:32:14
+brandweer,p 1 bnn-02 br woning portiekwoning hortensialaan groningen,Woningbrand op Hortensialaan in Groningen,2023-11-15,13:28:44
+brandweer,p 1 bnn-02 br woning flat hortensialaan groningen 011850 013593 011832,Woningbrand op Hortensialaan in Groningen,2023-11-15,13:28:44
+brandweer,p 2 bnn-03 ass. ambu afhijsen de bourbonstraat sneek 025751 025731,Assistentie ambulance voor afhijsen patiënt op de Bourbonstraat in Sneek,2023-11-15,13:28:10
+brandweer,"p 1 bad-01 ongeval gaslekkage, gaslucht binnen koninginneweg amsterdam 132631",Gaslucht op Koninginneweg in Amsterdam,2023-11-15,13:28:10
+brandweer,p 5 oefening brt-01 oms drukknopmelding avr rotterdam botlek professor gerbrandyweg botlek rotterdam 171931 171661,Brandweer naar Professor Gerbrandyweg in Botlek Rotterdam voor automatisch brandalarm dit betreft een oefening,2023-11-15,13:25:42
+brandweer,p 1 blb-01 br wegvervoer politiebureau stationstraat heerlen 244141,Voertuigbrand op Stationstraat in Heerlen,2023-11-15,13:21:22
+brandweer,p 2 bon-02 oms brandmelding hoog schuilenburg-carintreggeland beethovenlaan almelo 053131,Automatisch brandalarm op Beethovenlaan in Almelo,2023-11-15,13:21:08
+brandweer,p 1 bdh-02 oms brandmelding woonzorgcentrum duinhage de savornin lohmanlaan 's-gravenhage 157730,Automatisch brandalarm op De Savornin Lohmanlaan in Den Haag,2023-11-15,13:21:08
+brandweer,"p 1 bon-07 hv weg letsel bst a28 li - 't loo 80,1 n wezep 069191",Ongeval met letsel op A28,2023-11-15,13:19:44
+brandweer,"prio 4 a12 li 11,5 zoetmr eigen initiatief",Brandweer naar A12 in Zoetermeer  rijksweg a12,2023-11-15,13:19:10
+brandweer,p 2 bnh-02 co-melder de kroft hoogwoud 105531,Brandweer met gepaste spoed naar De Kroft in Hoogwoud,2023-11-15,13:17:08
+brandweer,"p 1 bon-07 br wegvervoer bst a28 li - 't loo 80,1 n wezep 061941",Voertuigbrand op A28,2023-11-15,13:16:33
+brandweer,p 1 419493 letsel school beatrixcollege gebouw c school beatrixcollege gebouw c kamerikstraat tilburg,Ongeval met letsel op Kamerikstraat in Tilburg,2023-11-15,13:12:19
+brandweer,p 1 419493 letsel school beat,Geen beschrijving beschikbaar,2023-11-15,13:12:17
+brandweer,p 1 bzb-02 br industrie fuji gatehouse oudenstaart tilburg 207092 209432 209031 209461,Industriebrand op Oudenstaart in Tilburg,2023-11-15,13:11:01
+brandweer,p 1 bdh-01 reanimatie afhijsen merellaan rijswijk zh 155550 155530,Assistentie bij reanimatie op Merellaan in Rijswijk,2023-11-15,13:08:16
+brandweer,p 2 bon-06 stormschade munitiecomplex hoenderloo 2 n310 - otterloseweg harskamp 282235,Stormschade op Otterloseweg in Hoenderloo,2023-11-15,13:06:07
+brandweer,p 3 bon-05 wateroverlast roggestraat den ham ov 053431,Wateroverlast op Roggestraat in Den Ham,2023-11-15,13:06:05
+brandweer,p 5 br wegvervoer vrachtauto e.o.d.d het zeisterspoor soesterberg 096631,Brandweer naar Het Zeisterspoor in Soesterberg voor Voertuigbrand,2023-11-15,13:03:01
+brandweer,p 2 bdh-02 liftopsluiting de beslagkom zwaaikom katwijk zh 161730,Assistentie bij liftopsluiting op Zwaaikom in Katwijk,2023-11-15,13:02:40
+brandweer,p 2 bnh-01 ongeval gaslekkage buiten kanaalweg heiloo 104931,Gaslek op Kanaalweg in Heiloo,2023-11-15,13:01:14
+politie,aanrijding letsel dr. m.a. tellegenlaan utrecht,Politie naar Utrecht voor ongeval met letsel,2023-11-15,13:26:18
+politie,svp bellen oc apeldoor gz gms 722332,Politie,2023-11-15,13:24:07
+politie,"aanrijding letsel bst a28 li - 't loo 80,1 n wezep 722324",Politie naar A28 voor ongeval met letsel,2023-11-15,13:17:32
+politie,ongeval/wegvervoer/letsel prio 1 emmen de waar abel tasmanstraat,Ongeval met letsel op Abel Tasmanstraat in Emmen,2023-11-15,13:15:26
+politie,2 ongeval wegvervoer materieel grote beer rotterdam icnum 616326,Politie naar Grote Beer in Rotterdam voor Ongeval Wegvervoer Materieel,2023-11-15,13:15:05
+politie,rixcollege gebouw c school beatrixcollege gebouw c kamerikstraat tilburg,Politie naar Kamerikstraat in Tilburg,2023-11-15,13:12:19
+politie,aanrijding letsel biezenakker ulft 722307,Politie naar Biezenakker in Ulft voor ongeval met letsel,2023-11-15,13:10:00
+politie,1 ongeval wegvervoer letsel beverwaardseweg rotterdam icnum 616308,Politie naar Beverwaardseweg in Rotterdam voor ongeval met letsel,2023-11-15,13:05:27
+politie,aanrijding letsel dierenriem orion ulft 722281,Politie naar Dierenriem in Ulft voor ongeval met letsel,2023-11-15,12:59:50

@@ -13921,3 +13921,8 @@ brandweer,p 1 bdh-02 br wegvervoer auto veenweg 's-gravenhage 157430,Voertuigbra
 brandweer,p 1 brt-01 oms beheerssysteem aldi brandpuntlaan zuid bleiswijk 179101 155330 179192,Automatisch brandalarm op Brandpuntlaan Zuid in Bleiswijk,2023-11-15,05:33:58
 brandweer,p 2 bon-01 br afval haven van coers stadsblokkenweg arnhem 073731,Afvalbrand op Haven van Coers in Arnhem,2023-11-15,05:26:43
 politie,bel oc 287003,Politie,2023-11-15,05:35:14
+brandweer,"p 1 bnn-01 ongeval wegvervoer auto n385 - kielsterachterweg 12,0 wildervank 012472 013693 012531",Ongeval op N385 in Wildervank,2023-11-15,05:44:26
+brandweer,p 1 bad-01 ass. ambu deur openen conradstraat amsterdam 133131,Brandweer met spoed naar Conradstraat in Amsterdam,2023-11-15,05:37:35
+politie,bel oc 287019,Politie,2023-11-15,05:47:27
+politie,"ongeval/wegvervoer/letsel prio 1 wildervank n385 - kielsterachterweg 12,0",Ongeval met letsel op N385 in Wildervank,2023-11-15,05:44:26
+politie,graag contact oc apeldoorn gms 545,Politie naar Apeldoorn,2023-11-15,05:41:18

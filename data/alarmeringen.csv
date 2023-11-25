@@ -24208,3 +24208,20 @@ politie,"1 ongeval wegvervoer letsel a15 re 57,3 p barendrecht icnum 635635",Pol
 politie,aanrijding letsel rijnsestraat zuna 747861,Politie naar Zuna voor ongeval met letsel,2023-11-25,15:05:37
 politie,"aanrijding letsel a2 re 38,9 abcoude",Politie naar A2 in Abcoude voor ongeval met letsel,2023-11-25,15:01:28
 politie,"prio 1 n219 li 13,6 zevhzh ongeval wegvervoer letsel",Ongeval met letsel op N219 in Zevenhuizen,2023-11-25,14:58:55
+brandweer,p 1 bzb-01 middel br br gezondheidszorg rijserf rijsbergen rijserf rijsbergen 203261,Brandmelding op Rijserf in Rijsbergen,2023-11-25,15:25:09
+brandweer,p 1 bzb-01 br gezondheidszorg rijserf rijsbergen rijserf rijsbergen 203232,Brandmelding op Rijserf in Rijsbergen,2023-11-25,15:25:09
+brandweer,##settime 15:23:00 25-11-2023##,Brandweer,2023-11-25,15:22:48
+brandweer,p 1 bzb-01 middel br br gezondheidszorg rijserf rijsbergen rijserf rijsbergen 203092 203231 203151,Brandmelding op Rijserf in Rijsbergen,2023-11-25,15:20:03
+brandweer,p 3 bon-05 dienstverlening t.g. gibsonstraat deventer 042830,Brandweer zonder spoed naar T.G. Gibsonstraat in Deventer,2023-11-25,15:17:41
+brandweer,p 1 bmd-03 br woning tussenwoning zwinpad almere 254151,Woningbrand op Zwinpad in Almere,2023-11-25,15:17:29
+brandweer,p 1 reanimatie hair division ambachten someren 222881,Assistentie bij reanimatie op Ambachten in Someren,2023-11-25,15:16:38
+brandweer,p 2 bon-04 oms handmelder karakter pand b hic dokter klinkertweg zwolle 041632,Geen beschrijving beschikbaar,2023-11-25,15:16:32
+brandweer,bevelvoerder graag contact meldkamer,Brandweer,2023-11-25,15:15:20
+brandweer,p 1 bmd-03 br woning zwinpad almere 254133 254132,Geen beschrijving beschikbaar,2023-11-25,15:14:31
+brandweer,p 2 bdh-05 dier te water rijksstraatweg zwammerdam 162231,Dier te water op Rijksstraatweg in Zwammerdam,2023-11-25,15:13:24
+politie,graag contact oc apeldoorn gms892,Politie naar Apeldoorn,2023-11-25,15:23:27
+politie,graag contact oc apeldoorn gms892,Geen beschrijving beschikbaar,2023-11-25,15:18:50
+politie,aanrijding letsel backenhagenlaan hengelo 747891,Politie naar Hengelo voor ongeval met letsel,2023-11-25,15:18:30
+politie,"aanrijding letsel personenauto a50 li - delhuijzenweg 186,7 arnhem 747894",Politie naar A50 in Arnhem voor ongeval met letsel,2023-11-25,15:18:15
+trauma,"someren, ambachten",Traumaheli naar Ambachten in Someren,2023-11-25,15:22:06
+trauma,a1 dia 13991 muldersweg someren 106215 regio 22,Traumaheli naar Muldersweg in Someren,2023-11-25,15:14:22

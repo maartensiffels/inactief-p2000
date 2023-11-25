@@ -23870,3 +23870,7 @@ politie,u bent nu actief in de functie ovd-p copi piket.,Politie,2023-11-25,06:2
 trauma,"a1 mmt, aed 13901 fleerde amsterdam 106116",Traumaheli naar Fleerde in Amsterdam,2023-11-25,06:29:44
 brandweer,p 1 bzb-01 br wegvervoer auto dorpsstraat st. willebrord 203342,Voertuigbrand in Sint Willebrord,2023-11-25,06:41:39
 brandweer,p 2 brt-01 oms brandmelding robedrijf gemeente rotterdam zuidlaardermeer rotterdam 171031,Automatisch brandalarm op Zuidlaardermeer in Rotterdam,2023-11-25,06:40:11
+brandweer,p 1 brt-03 ongeval wegvervoer slinge langenhorst rotterdam 173361 173431 179194,Ongeval op Slinge in Rotterdam,2023-11-25,06:55:11
+brandweer,p 2 brt-02 liftopsluiting brede hilledijk rotterdam 173431,Assistentie bij liftopsluiting op Brede Hilledijk in Rotterdam,2023-11-25,06:52:03
+politie,1 ongeval wegvervoer letsel slinge rotterdam icnum 635003,Politie naar Slinge in Rotterdam voor ongeval met letsel,2023-11-25,06:55:11
+politie,1 ongeval wegvervoer letsel langenhorst rotterdam icnum 635000,Politie naar Langenhorst in Rotterdam voor ongeval met letsel,2023-11-25,06:52:23

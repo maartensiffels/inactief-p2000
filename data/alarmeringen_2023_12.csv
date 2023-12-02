@@ -1238,3 +1238,14 @@ politie,graag contact mka,Politie  voor contact met de meldkamer opnemen,2023-12
 politie,"prio 1 n207 - henegouwerweg 23,4 waddxv ongeval wegvervoer letsel",Geen beschrijving beschikbaar,2023-12-02,13:02:55
 trauma,a1 ambu 17902 moliereweg 3076ge rotterdam rottdm bon 169898,Geen beschrijving beschikbaar,2023-12-02,13:18:11
 trauma,a1 ambu 17992 17103 17101 moliereweg 3076ge rotterdam rottdm bon 169898,Traumaheli naar Molièreweg in Rotterdam,2023-12-02,13:15:29
+brandweer,p 2 bon-02 oms brandmelding livio het saalmerink klaashuisstraat haaksbergen 054541,Automatisch brandalarm op Klaashuisstraat in Haaksbergen,2023-12-02,13:49:59
+brandweer,p 2 bdh-01 wateroverlast haven leiden 164130,Wateroverlast op Haven in Leiden,2023-12-02,13:48:59
+brandweer,p 1 bzb-01 oms handmelder stichting sterk huis donkerstraat teteringen 203134,Automatisch brandalarm (handmelder) op Donkerstraat in Teteringen,2023-12-02,13:47:41
+brandweer,"prio 4 a4 re 34,0 leiden bijzondere verkeerszaken",Brandweer naar A4 in Leiden,2023-12-02,13:36:44
+brandweer,p 3 intrekken alarm brw br gerucht quarijn de koekoek nieuweweg veenendaal,Brandgerucht op Nieuweweg in Veenendaal,2023-12-02,13:32:41
+brandweer,p 2 br gerucht quarijn de koekoek nieuweweg veenendaal 095531,Brandgerucht op Nieuweweg in Veenendaal,2023-12-02,13:31:46
+politie,ongeval/wegvervoer/letsel prio 1 emmen uilenveld,Ongeval met letsel op Uilenveld in Emmen,2023-12-02,13:37:26
+politie,ongeval/wegvervoer/letsel prio 1 emmen jumbo valkenveld,Ongeval met letsel op Valkenveld in Emmen,2023-12-02,13:36:18
+politie,1 ongeval wegvervoer letsel n209 re - hoekeindseweg bleiswijk icnum 648719,Politie naar Hoekeindseweg in Bleiswijk voor ongeval met letsel,2023-12-02,13:34:35
+politie,prio 1 europaweg azieweg zoetmr ongeval wegvervoer letsel,Ongeval met letsel op Europaweg in Zoetermeer,2023-12-02,13:34:10
+trauma,a1 dia: ja ambu 17992 gastelsedijk zuid 4751vg oud gastel oudgas bon 169912,Traumaheli naar 4751VG,2023-12-02,13:34:29

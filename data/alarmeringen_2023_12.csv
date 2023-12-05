@@ -3927,3 +3927,39 @@ politie,ongeval/wegvervoer/letsel prio 1 emmen n381 li - twee provincienweg n381
 politie,aanrijding letsel schuilenburgsingel almelo 772799,Politie naar Schuilenburgsingel in Almelo voor ongeval met letsel,2023-12-05,16:58:16
 politie,1 ongeval wegvervoer letsel ruigenhoek gorinchem icnum 654410,Politie naar Ruigenhoek in Gorinchem voor ongeval met letsel,2023-12-05,16:54:59
 trauma,a1 ambu 17902 langnekstraatrp 's-gravenhage sgravh bon 171635,Traumaheli naar Langnekstraat in Den Haag,2023-12-05,17:05:22
+brandweer,p 2 blb-03 stank/hind. lucht meting wilhelminastraat geleen 244831,Brandweer met gepaste spoed naar Wilhelminastraat in Geleen,2023-12-05,17:35:46
+brandweer,p 1 bzb-01 br industrie func. log. fabricage/opslaggeb. met zonnepane weegbree raamsdonksveer 209480,Industriebrand op Weegbree in Raamsdonksveer,2023-12-05,17:35:07
+brandweer,p 1 bon-03 hv overig gaslekkage binnen ovd-b fiep westendorplaan zaltbommel 085231 089094,Gaslek op Fiep Westendorplaan in Zaltbommel,2023-12-05,17:34:41
+brandweer,p 2 blb-02 brandgerucht bosheideweg belfeld 233431,Brandgerucht op Bosheideweg in Belfeld,2023-12-05,17:34:10
+brandweer,p 1 bzb-01 br industrie ovd-bz fabricage/opslaggeb. met zonnepanelen weegbree raamsdonksveer,Industriebrand op Weegbree in Raamsdonksveer,2023-12-05,17:32:29
+brandweer,"prio 1 a12 re 36,5 bodegr loslopende dieren op weg",Geen beschrijving beschikbaar,2023-12-05,17:31:46
+brandweer,"prio 4 a12 re 36,3 bodegr zieke/dode dieren",Brandweer naar A12 in Bodegraven,2023-12-05,17:29:18
+brandweer,p 1 brt-02 ongeval gaslekkage blekerstraat rotterdam 170631 179192,Gaslek op Blekerstraat in Rotterdam,2023-12-05,17:29:10
+brandweer,"prio 4 a12 re 36,5 bodegr zieke/dode dieren",Brandweer naar A12 in Bodegraven,2023-12-05,17:29:03
+brandweer,p 1 ongeval wegvervoer letsel hugo de grootplein amsterdam,Ongeval met letsel op Hugo de Grootplein in Amsterdam,2023-12-05,17:28:07
+brandweer,"p 2 446254 letsel toerit a27 re - hank 21 24,1 b hank",Ongeval met letsel op A27 in Hank,2023-12-05,17:26:00
+brandweer,p 1 bnh-20 lvo voorzorg rijbaan a ugs-a schiphol terrein schiphol 121293 129230 129291,Brandweer met spoed,2023-12-05,17:24:57
+brandweer,p 2 bad-02 wateroverlast verpleeghuis vreugdehof de klencke amsterdam 133531,Wateroverlast op De Klencke in Amsterdam,2023-12-05,17:22:41
+brandweer,p 2 blb-01 ongeval wegvervoer rijksweg herten 235169,Geen beschrijving beschikbaar,2023-12-05,17:22:33
+brandweer,p 1 brt-01 stank/hind. lucht gaslucht binnen avelingen-west gorinchem 188131,Gaslucht op Avelingen-West in Gorinchem,2023-12-05,17:20:55
+brandweer,p 1 446255 letsel bachlaan waalwijk,Ongeval met letsel op Bachlaan in Waalwijk,2023-12-05,17:20:15
+brandweer,"p 1 bdh-03 ongeval wegvervoer n207 li - herenweg,8 woubrugge 169193 162033",Ongeval op Herenweg in Woubrugge,2023-12-05,17:19:33
+brandweer,graag woubrugsebrug vrij houden.,Brandweer,2023-12-05,17:19:31
+brandweer,p 1 blb-01 ongeval wegvervoer rijksweg herten 235131,Ongeval op Rijksweg in Herten,2023-12-05,17:19:24
+brandweer,"prio 4 afrit a12 li - gouda 11 28,7 c waddxv ongeval wegvervoer materieel",Brandweer naar A12 in Gouda voor Ongeval Wegvervoer Materieel rijksweg a12,2023-12-05,17:18:42
+brandweer,p 1 bzb-01 br industrie weegbree raamsdonksveer 207151,Industriebrand op Weegbree in Raamsdonksveer,2023-12-05,17:18:14
+politie,graag contact cellencomplex borne 886,Politie naar Borne,2023-12-05,17:35:50
+politie,overval st. jacobslaan nijmegen 772882,Politie naar St. Jacobslaan in Nijmegen  overval,2023-12-05,17:33:13
+politie,ongeval wegvervoer letsel beukenlaan eindhoven,Politie naar Beukenlaan in Eindhoven voor ongeval met letsel,2023-12-05,17:30:50
+politie,aanrijding letsel keulerstraat bergen l,Politie naar Keulerstraat in Bergen voor ongeval met letsel,2023-12-05,17:29:57
+politie,aanrijding letsel scooter zuidelijke parallelweg dorpstraat westervoort 772869,Politie naar Zuidelijke Parallelweg in Westervoort voor ongeval met letsel,2023-12-05,17:28:37
+politie,"ongeval wegvervoer letsel n264 - rondweg volkel 28,5 volkel",Politie naar N264 in Volkel voor ongeval met letsel,2023-12-05,17:27:42
+politie,"aanrijding letsel a28 li 85,5 hattem 772862",Politie naar A28 in Hattem voor ongeval met letsel,2023-12-05,17:23:58
+politie,graag contact oc apeldoorn gms;772,Politie naar Apeldoorn,2023-12-05,17:23:14
+politie,2 ongeval wegvervoer materieel oudedijk rotterdam icnum 654446,Politie naar Oudedijk in Rotterdam voor Ongeval Wegvervoer Materieel,2023-12-05,17:21:00
+politie,ongeval wegvervoer letsel a50 re - kp paalgraven nistelrode,Politie naar A50 in Nistelrode voor ongeval met letsel,2023-12-05,17:20:26
+politie,"ongeval wegvervoer letsel a50 re - kp paalgraven 130,0 g nistelrode",Politie naar A50 in Nistelrode voor ongeval met letsel,2023-12-05,17:20:26
+politie,"prio 1 n207 li - herenweg 40,8 woubrg ongeval wegvervoer letsel",Ongeval met letsel op N207,2023-12-05,17:19:10
+politie,1 ongeval wegvervoer letsel van dalsumlaan schiedam icnum 654447,Politie naar Van Dalsumlaan in Schiedam voor ongeval met letsel,2023-12-05,17:17:52
+politie,graag contact mka,Politie  voor contact met de meldkamer opnemen,2023-12-05,17:16:16
+politie,lrebaan tilburg,Politie naar Tilburg,2023-12-05,17:16:10

@@ -6048,3 +6048,12 @@ brandweer,p 1 brt-03 stank/hind. lucht gaslucht schoolstraat hoek van holland 17
 brandweer,p 1 reanimatie uithoflijn utrecht 094631,Assistentie bij reanimatie in Utrecht,2023-12-07,22:42:09
 trauma,a1 dia: ja ambu 17992 steurstraat 4285xe woudrichem woudrm bon 172903,Traumaheli naar 4285XE,2023-12-07,22:51:37
 trauma,a1 mmt 13991 weg naar rhijnauwen utrecht 110308,Traumaheli naar Weg naar Rhijnauwen in Utrecht,2023-12-07,22:43:42
+brandweer,p 1 brt-01 reanimatie inzet aed stadion feyenoord van zandvlietplein rotterdam 179234,Assistentie bij reanimatie op Van Zandvlietplein in Rotterdam,2023-12-07,23:07:16
+brandweer,##settime 23:07:00 07-12-2023##,Brandweer,2023-12-07,23:07:03
+brandweer,p 2 bmd-01 wateroverlast clausstraat urk 256531,Wateroverlast op Clausstraat in Urk,2023-12-07,23:04:01
+brandweer,"prio 4 a4 re 42,8 leiddm wegverkeer verkeersstremming soort stremming: pechgeval",Brandweer naar A4 in Leidschendam,2023-12-07,23:00:46
+brandweer,p 1 stank/hind. lucht gaslucht binnen schoolstraat hoek van holland,Gaslucht op Schoolstraat in Hoek Van Holland,2023-12-07,23:00:27
+brandweer,p 1 br industrie fabricage/opslaggeb. oosteinde barendrecht,Industriebrand op Oosteinde in Barendrecht,2023-12-07,23:00:09
+brandweer,p 2 bzb-01 buitensluiting deur openen fellenoordstraat breda 203132,Brandweer met gepaste spoed naar Fellenoordstraat in Breda,2023-12-07,22:55:20
+politie,1 ongeval wegvervoer letsel antoniuslaan hendrik-ido-ambacht icnum 658857,Geen beschrijving beschikbaar,2023-12-07,23:10:18
+politie,prio 1 loosterweg noord lisse ongeval wegvervoer letsel,Ongeval met letsel in Lisse,2023-12-07,23:00:03

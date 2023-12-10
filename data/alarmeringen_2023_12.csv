@@ -8263,3 +8263,8 @@ trauma,a1 mmt dia 13991 hillegommerdijk beinsdorp 111119 regio 12,Traumaheli met
 brandweer,p 1 bzb-02 br wegvervoer ambrosiusweg vandemerwede waalwijk 207131,Voertuigbrand op Ambrosiusweg in Waalwijk,2023-12-10,11:39:54
 brandweer,p 1 bdh-04 oms brandmelding universiteit leiden turfmarkt 's-gravenhage 159631,Automatisch brandalarm op Turfmarkt in Den Haag,2023-12-10,11:39:31
 brandweer,p 2 bnn-04 nacontrole wilhelmina ziekenhuis assen europaweg-zuid assen 038293 038232,Nacontrole op Europaweg-Zuid in Assen,2023-12-10,11:31:33
+brandweer,"p 1 bon-01 hv weg letsel a35 li 63,3 enschede 059094 054131",Ongeval met letsel op A35 in Enschede,2023-12-10,11:49:48
+brandweer,p 2 bdh-02 persoon te water kanaalweg delft 159594,Persoon te water op Kanaalweg in Delft,2023-12-10,11:49:05
+brandweer,p 2 brt-01 liftopsluiting rudolf steinerschool memlingstraat krimpen aan den ijssel 171131,Assistentie bij liftopsluiting op Memlingstraat in Krimpen Aan Den Ijssel,2023-12-10,11:47:41
+politie,aanrijding letsel n595 - marchierstraat wijlre,Politie naar Marchierstraat in Wijlre voor ongeval met letsel,2023-12-10,11:49:16
+politie,"aanrijding letsel a35 li 63,3 enschede 784979",Politie naar A35 in Enschede voor ongeval met letsel,2023-12-10,11:48:56

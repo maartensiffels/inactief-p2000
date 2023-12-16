@@ -14265,3 +14265,10 @@ brandweer,p 1 bzb-01 oms handmelder torentjeshoef oranjesingel berkel-enschot 20
 brandweer,p 2 brt-02 br buiten zwarteweg stellendam 174131,Buitenbrand in Stellendam,2023-12-17,00:26:48
 brandweer,p 2 bon-03 middel br br woning vrijstaand zutphenseweg klarenbeek voorst 066784 066781,Woningbrand op Zutphenseweg in Klarenbeek,2023-12-17,00:24:41
 brandweer,p 2 bad-02 br container ondergronds silodam amsterdam 133331,Buitenbrand (container) op Silodam in Amsterdam,2023-12-17,00:19:24
+brandweer,"a2 a12 re 19,5 bleisw :",Brandweer naar A12,2023-12-17,00:39:35
+brandweer,"prio 1 a12 re 19,5 bleisw ongeval wegvervoer letsel",Ongeval met letsel op A12,2023-12-17,00:39:03
+brandweer,p 1 bad-03 ass. politie deur openen dijsselhofplantsoen amsterdam 133231,Brandweer met spoed naar Dijsselhofplantsoen in Amsterdam  assistentie politie,2023-12-17,00:36:35
+brandweer,p 1 bdh-02 br wegvervoer fiets station leiden lammenschans kamerlingh onnesplein leiden 164230,Voertuigbrand op Kamerlingh Onnesplein in Leiden,2023-12-17,00:32:54
+brandweer,p 1 bnh-01 reanimatie lagedijk zaandijk 118035,Assistentie bij reanimatie op Lagedijk in Zaandijk,2023-12-17,00:31:46
+politie,"1 ongeval wegvervoer letsel a12 re 19,3 bleiswijk icnum 676623",Politie naar A12 in Bleiswijk voor ongeval met letsel,2023-12-17,00:40:05
+trauma,a1 dia mmt 13991 lagedijk zaandijk 113389 regio 11,Traumaheli naar Lagedijk in Zaandijk,2023-12-17,00:31:27

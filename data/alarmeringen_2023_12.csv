@@ -21428,3 +21428,9 @@ trauma,a1 dia 13991 raaksbrug haarlem 115800 regio 12,Traumaheli naar Haarlem,20
 brandweer,p 1 bad-01 ass. ambu afhijsen sara burgerhartstraat amsterdam 132451 132431,Assistentie ambulance voor afhijsen patiënt op Sara Burgerhartstraat in Amsterdam,2023-12-24,00:20:57
 brandweer,p 1 bad-02 ass. ambu afhijsen maasstraat amsterdam 133551 133531,Assistentie ambulance voor afhijsen patiënt op Maasstraat in Amsterdam,2023-12-24,00:34:18
 brandweer,p 1 bnn-03 br buiten optie #1 hoofdstraat hoogeveen 038931,Buitenbrand op Hoofdstraat in Hoogeveen,2023-12-24,00:28:41
+brandweer,"p 1 bdh-01 ongeval wegvervoer lichte thv a4 re 56,6 schipluiden 156970 156030 159591",Ongeval op A4 in Schipluiden,2023-12-24,00:46:26
+brandweer,p 1 bnh-02 stank/hind. lucht gaslucht binnen montessoristraat heemskerk 122130,Gaslucht op Montessoristraat in Heemskerk,2023-12-24,00:44:41
+politie,"prio 1 a4 re 57,6 schild ongeval wegvervoer letsel",Ongeval met letsel op A4 in Schipluiden,2023-12-24,00:47:35
+politie,graag contact arrestantenwacht borne politiebureau hosbekkeweg borne gms830,Politie naar Hosbekkeweg in Borne,2023-12-24,00:46:03
+politie,"prio 1 a4 re 56,6 schild ongeval wegvervoer letsel",Geen beschrijving beschikbaar,2023-12-24,00:45:39
+trauma,"a1 ambu 17992 a4 re 57,6 schipluiden schild bon 181776",Traumaheli naar A4 in Schipluiden,2023-12-24,00:47:35

@@ -21550,3 +21550,9 @@ politie,ongeval/wegvervoer/letsel prio 1 midwolde pasop,Ongeval met letsel op Pa
 brandweer,"p 1 bon-04 hv weg letsel n224 - verlengde arnhemseweg,0 ede 072096 072731",Ongeval met letsel op Verlengde Arnhemseweg in Ede,2023-12-24,06:37:31
 brandweer,##settime 06:34:00 24-12-2023##,Brandweer,2023-12-24,06:33:59
 trauma,a1 dia mmt 13991 het voert grootebroek 115851 regio 10,Traumaheli naar Het Voert in Grootebroek,2023-12-24,06:27:44
+brandweer,p 1 blb-01 ongeval wegvervoer westelijke randweg geleen 243371 243591 244831,Ongeval op Westelijke Randweg in Geleen,2023-12-24,06:46:37
+politie,aanrijding letsel westelijke randweg geleen,Politie naar Westelijke Randweg in Geleen voor ongeval met letsel,2023-12-24,06:46:37
+politie,"ongeval/wegvervoer/letsel prio 1 lettelbert a7 re 185,0",Ongeval met letsel op A7 in Lettelbert,2023-12-24,06:46:03
+politie,graag contact met zcc ijsselland,Politie,2023-12-24,06:44:57
+politie,aanrijding letsel spectrumdreef hawaiiweg almere,Politie naar Hawaiiweg in Almere voor ongeval met letsel,2023-12-24,06:42:38
+trauma,"a1 ambu 08993 hv weg letsel ede verlengde arnhemse weg n224,0 rit 344344",Traumaheli naar N224 in Ede voor ongeval met letsel,2023-12-24,06:43:03

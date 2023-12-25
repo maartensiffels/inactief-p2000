@@ -22802,3 +22802,24 @@ brandweer,p 1 bob-03 br buiten industrie ags vlamovenweg helmond 225125 225162 2
 brandweer,p 2 bdh-03 br container ondergronds bontekoekade 's-gravenhage 157630,Buitenbrand (container) op Bontekoekade in Den Haag,2023-12-25,16:52:20
 brandweer,p 2 bad-01 br container ondergronds van hanxleden houwertstraat amsterdam 132531,Buitenbrand (container) op Van Hanxleden Houwertstraat in Amsterdam,2023-12-25,16:51:11
 trauma,a1 13991 van goghhof hoorn nh 116236 regio 10,Traumaheli naar Van Goghhof in Hoorn,2023-12-25,16:56:10
+brandweer,p 1 bdh-02 ongeval spoor tram koningin emmakade waldeck pyrmontkade 's-gravenhage 157770 157830 157230 159591 159661,Ongeval op Koningin Emmakade in Den Haag,2023-12-25,17:23:34
+brandweer,p 1 bad-01 br bijgebouw tafelbergweg amsterdam 134131,Brand in bijgebouw op Tafelbergweg in Amsterdam,2023-12-25,17:23:16
+brandweer,p 2 brt-04 br container martinus steijnstraat rotterdam 173431,Geen beschrijving beschikbaar,2023-12-25,17:22:37
+brandweer,p 1 bnh-04 br woning nagtzaamstraat haarlem 121586 121285,Woningbrand op Nagtzaamstraat in Haarlem,2023-12-25,17:18:35
+brandweer,p 2 bdh-04 br container ondergronds wachtumstraat 's-gravenhage 157730,Buitenbrand (container) op Wachtumstraat in Den Haag,2023-12-25,17:16:01
+brandweer,p 1 473014 letsel emerparklaan moerlaken emerparklaan breda,Ongeval met letsel op Emerparklaan in Breda,2023-12-25,17:13:59
+brandweer,p 1 473014 letsel emerparklaan moerlaken eme,Brandweer met spoed voor ongeval met letsel,2023-12-25,17:13:59
+brandweer,gaarne contact mkb 179191,Brandweer,2023-12-25,17:12:29
+brandweer,p 1 473009 letsel vinkenbroeksestraat roosendaal,Ongeval met letsel op Vinkenbroeksestraat in Roosendaal,2023-12-25,17:11:00
+brandweer,p 1 bzb-01 hv weg letsel thv: licht vinkenbroeksestraat roosendaal 201092 201331,Ongeval met letsel op Vinkenbroeksestraat in Roosendaal,2023-12-25,17:11:00
+brandweer,p 1 bzb-01 hv weg letsel thv: licht vinkenbroeksestraat roosendaal 201371,Ongeval met letsel op Vinkenbroeksestraat in Roosendaal,2023-12-25,17:08:35
+brandweer,p 1 bob-91 middel br br buiten industrie met gev. stof eleo technologies automotive campus helmond 225163 225282,Buitenbrand op Automotive Campus in Helmond,2023-12-25,17:04:37
+brandweer,p 2 blb-02 br buiten via regia maastricht 243231,Buitenbrand op Via Regia in Maastricht,2023-12-25,17:03:16
+brandweer,p 1 bdh-01 oms brandmelding woningen ipse de bruggen waterviolier 's-gravenhage 155430,Automatisch brandalarm op Waterviolier in Den Haag,2023-12-25,17:01:09
+brandweer,p 1 bob-91 middel br br buiten industrie ve gs: 1 eleo technologies automotive campus helmond 225023,Buitenbrand op Automotive Campus in Helmond,2023-12-25,17:00:36
+brandweer,p 1 bnn-01 oms brandmelding de nieuwe kolk brw-ingang 1 weiersstraat assen 038231,Automatisch brandalarm op Weiersstraat in Assen,2023-12-25,16:59:35
+brandweer,"p 5 dv wegvervoer a4 re 52,5 den hoorn zh",Brandweer naar A4 in Den Hoorn,2023-12-25,16:58:55
+politie,prio 1 koningin emmakade waldeck pyrmontkade sgravh ongeval wegvervoer letsel,Ongeval met letsel op Koningin Emmakade in Den Haag,2023-12-25,17:23:46
+politie,"ongeval wegvervoer letsel a2 li - bosseweg,6 best",Politie naar Bosseweg in Best voor ongeval met letsel,2023-12-25,17:19:40
+politie,"ongeval wegvervoer letsel a2 re 134,0 liempde",Politie naar A2 in Liempde voor ongeval met letsel,2023-12-25,17:18:46
+politie,rparklaan breda,Politie naar Breda,2023-12-25,17:13:59

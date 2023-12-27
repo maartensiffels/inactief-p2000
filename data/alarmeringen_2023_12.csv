@@ -24337,3 +24337,10 @@ politie,prio 1 esso stad in willem de zwijgerlaan leiden ongeval wegvervoer lets
 politie,aanrijding letsel mcdonald's kronenburg kronenburgpassage arnhem 830001,Politie naar Kronenburg in Arnhem voor ongeval met letsel,2023-12-27,15:08:48
 trauma,a1 dia: ja ambu 17992 havikstraateh sliedrecht sliedr bon 183505,Traumaheli naar Havikstraat in Sliedrecht,2023-12-27,15:17:54
 trauma,a1 dia 13901 havikstraat sliedrecht 116758,Traumaheli naar Havikstraat in Sliedrecht,2023-12-27,15:10:44
+brandweer,p 2 blb-02 br buiten schinkelstraat heerlen 244141,Buitenbrand op Schinkelstraat in Heerlen,2023-12-27,15:29:20
+brandweer,p 2 wateroverlast woonhuis prinses beatrixlaan zeist 096631,Wateroverlast op Prinses Beatrixlaan in Zeist,2023-12-27,15:28:07
+brandweer,"p 1 bdh-02 ongeval wegvervoer a4 re 32,9 leiden 169192 164130",Ongeval op A4 in Leiden,2023-12-27,15:26:42
+brandweer,p1 de lotto laan van hoornwijck rijswijk - betreft foutieve alarmering,Brandweer met spoed naar Laan van Hoornwijck in Rijswijk,2023-12-27,15:26:03
+brandweer,p 1 bdh-01 oms brandmelding grand hotel amrath kurhaus gevers deynootplein 's-gravenhage 157130,Automatisch brandalarm op Gevers Deynootplein in Den Haag,2023-12-27,15:25:11
+politie,"prio 1 a4 re 32,9 leiden ongeval wegvervoer letsel",Ongeval met letsel op A4 in Leiden,2023-12-27,15:26:42
+trauma,a1 mmt 13991 jan hendrikstraat 2512 's-gravenhage 116766,Traumaheli,2023-12-27,15:25:20

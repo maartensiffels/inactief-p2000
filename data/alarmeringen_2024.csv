@@ -1349,3 +1349,15 @@ brandweer,p 2 bnn-02 br buiten vrieserweg loon 038434,Buitenbrand op Vrieserweg 
 brandweer,p 1 bnh-03 br bijeenkomst hotel den helder marsdiepstraat den helder 106592 104432 104431,Geen beschrijving beschikbaar,2024-01-01,22:53:01
 brandweer,p 2 bdh-03 reinigen wegdek valkenboskade 's-gravenhage 157130,Reinigen wegdek op Valkenboskade in Den Haag,2024-01-01,22:45:54
 politie,gaarne tel contact caco,Politie,2024-01-01,22:45:10
+brandweer,p 1 bnh-01 ongeval wegvervoer zware thv bellstraat heerhugowaard 106575 104132 106596 104832,Ongeval op Bellstraat in Heerhugowaard,2024-01-01,23:06:09
+brandweer,p 2 bon-01 oms handmelder dhl supply chain nijmegen 2 bijsterhuizen wijchen 082331,Automatisch brandalarm (handmelder) op Bijsterhuizen in Wijchen,2024-01-01,23:03:28
+brandweer,p 2 bnn-02 br buiten vrieserweg loon 038260,Buitenbrand op Vrieserweg in Loon,2024-01-01,23:00:37
+brandweer,intrekken alarm brw oms brandmelding pi hhw zuyder bos copernicusstraat heerhugowaard,Automatisch brandalarm op Copernicusstraat in Heerhugowaard,2024-01-01,22:57:58
+brandweer,p 1 bnh-04 oms brandmelding pi hhw zuyder bos copernicusstraat heerhugowaard 104832,Automatisch brandalarm op Copernicusstraat in Heerhugowaard,2024-01-01,22:56:09
+brandweer,p 1 bnh-03 br bijeenkomst hotel den helder marsdiepstraat den helder 104451,Brandweer met spoed naar Marsdiepstraat in Den Helder,2024-01-01,22:55:12
+brandweer,p 2 br nacontrole van lennepdwarsstraat utrecht 094531,Nacontrole op Van Lennepdwarsstraat in Utrecht,2024-01-01,22:54:22
+brandweer,p 2 bdh-04 br container olieslagerslaan 's-gravenhage 155630,Buitenbrand (container) op Olieslagerslaan in Den Haag,2024-01-01,22:53:29
+politie,aanrijding letsel hijinkhoekweg winterswijk woold 3676,Politie naar Hijinkhoekweg in Winterswijk Woold voor ongeval met letsel,2024-01-01,23:04:40
+politie,aanrijding letsel hijinkhoekweg winterswijk woold 3677,Politie naar Hijinkhoekweg in Winterswijk Woold voor ongeval met letsel,2024-01-01,23:04:15
+trauma,a1 dia 13991 bellstraat heerhugowaard 354 regio 10,Traumaheli naar Bellstraat in Heerhugowaard,2024-01-01,23:05:28
+trauma,a1 ambu 08993 hijinkhoekweg winterswijk woold rit 1129 mka nog,Traumaheli naar Hijinkhoekweg in Winterswijk Woold,2024-01-01,23:04:40

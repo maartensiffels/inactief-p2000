@@ -630,3 +630,37 @@ brandweer,p 2 brt-05 br container landmanweg zwijndrecht 186331,Buitenbrand (con
 brandweer,p 2 bdh-03 br container willem pijperlaan prins hendriklaan leidschendam 159630,Buitenbrand (container) op Willem Pijperlaan in Leidschendam,2024-01-01,08:46:48
 brandweer,p 3 brt-04 contact mkb mkb rotterdam wilhelminakade rotterdam 179201,Brandweer zonder spoed naar Wilhelminakade in Rotterdam,2024-01-01,08:46:14
 trauma,a2 ambu 08993 dia culemborg rit 460,Traumaheli naar Culemborg,2024-01-01,08:53:20
+brandweer,p 2 bdh-06 br container ondergronds ranonkelstraat stokroosstraat 's-gravenhage 157130,Buitenbrand (container) op Ranonkelstraat in Den Haag,2024-01-01,09:18:07
+brandweer,p 2 bdh-03 br buiten kepplerplein 's-gravenhage 157230,Buitenbrand op Kepplerplein in Den Haag,2024-01-01,09:17:37
+brandweer,p 2 bnn-03 br container kropaar meppel 039265,Buitenbrand (container) op Kropaar in Meppel,2024-01-01,09:16:48
+brandweer,p 2 contact mkb meldkamer noord-holland zijlweg haarlem,Brandweer met gepaste spoed naar Zijlweg in Haarlem,2024-01-01,09:16:14
+brandweer,p 2 blb-01 stank/hind. lucht koolmonoxide meting leger des heils ruys de beerenbroucklaan heerlen 244141,Brandweer met gepaste spoed naar Ruys de Beerenbroucklaan in Heerlen,2024-01-01,09:15:41
+brandweer,p 2 bnn-02 wateroverlast asfinex noord verzekeringen trambaan burgum 027131,Wateroverlast op Trambaan in Burgum,2024-01-01,09:15:03
+brandweer,p 2 bnh-05 contact mkb ovd-b meldkamer brandweer noord-holland zijlweg haarlem 121292,Brandweer met gepaste spoed naar Zijlweg in Haarlem,2024-01-01,09:14:22
+brandweer,p 2 bzb-02 br buiten n651 - stoofweg noordwelle 192846,Buitenbrand op Stoofweg in Noordwelle,2024-01-01,09:11:52
+brandweer,p 1 bad-04 ass. ambu deur openen overhaalsgang amsterdam 133131,Brandweer met spoed naar Overhaalsgang in Amsterdam,2024-01-01,09:11:29
+brandweer,p 1 bon-06 br woning hofkampstraat almelo 053151,Woningbrand op Hofkampstraat in Almelo,2024-01-01,09:10:38
+brandweer,p 1 bon-06 br woning hofkampstraat almelo 059094 053131 053631,Woningbrand op Hofkampstraat in Almelo,2024-01-01,09:10:38
+brandweer,p 2 bnh-04 br container jan ploegerlaan de rijp 104731,Geen beschrijving beschikbaar,2024-01-01,09:09:13
+brandweer,"p 1 1079 letsel burg letschertweg - n260,6 tilburg",Ongeval met letsel op N260 in Tilburg,2024-01-01,09:09:12
+brandweer,p 1 1079 letsel burg letschertwe,Brandweer met spoed voor ongeval met letsel,2024-01-01,09:09:12
+brandweer,p 2 bdh-02 br berm/bosschage scheepmakershaven schoonhoven 163330,Brandweer met gepaste spoed naar Scheepmakershaven in Schoonhoven,2024-01-01,09:08:40
+brandweer,p 2 bon-05 br berm-/bosschage meidoornstraat lichtenvoorde 066331,Brandweer met gepaste spoed naar Meidoornstraat in Lichtenvoorde,2024-01-01,09:08:29
+brandweer,p 1 bdh-01 oms brandmelding triora monsterseweg 's-gravenhage 159638,Automatisch brandalarm op Monsterseweg in Den Haag,2024-01-01,09:08:12
+brandweer,p 2 bnh-03 br container harpoeniersstraat morgensterstraat zaandam 118034,Buitenbrand (container) op Harpoeniersstraat in Zaandam,2024-01-01,09:07:39
+brandweer,p 1 bon-02 middel br br agrarisch bosstraat didam 069491 069904 069801 065041,Brand bij agrarisch bedrijf op Bosstraat in Didam,2024-01-01,09:07:27
+brandweer,p 2 bad-02 liftopsluiting postjeskade amsterdam 133331,Assistentie bij liftopsluiting op Postjeskade in Amsterdam,2024-01-01,09:07:16
+brandweer,p 1 bnh-02 br bijgebouw n504 oudkarspel 104241,Brand in bijgebouw op N504 in Oudkarspel,2024-01-01,09:04:57
+brandweer,p 1 bon-02 br agrarisch bosstraat didam 065161,Brand bij agrarisch bedrijf op Bosstraat in Didam,2024-01-01,09:03:26
+brandweer,p 2 bnh-01 br container kanostraat den helder 104432,Buitenbrand (container) op Kanostraat in Den Helder,2024-01-01,09:02:50
+brandweer,p 1 bon-02 br agrarisch bosstraat didam 075551,Brand bij agrarisch bedrijf op Bosstraat in Didam,2024-01-01,09:02:16
+brandweer,p 1 bon-02 br agrarisch bosstraat didam 065031,Brand bij agrarisch bedrijf op Bosstraat in Didam,2024-01-01,09:01:52
+brandweer,p 2 bnn-03 br container kropaar meppel 039231,Buitenbrand (container) op Kropaar in Meppel,2024-01-01,09:00:33
+brandweer,p 2 bon-03 br bijgebouw keet/hok/schuurtje pitch en putt kerkstraat elst ge 073751,Brand in bijgebouw op Kerkstraat in Elst,2024-01-01,08:58:20
+brandweer,p 2 brt-02 br container kanaalweg capelseweg capelle aan den ijssel 171131,Buitenbrand (container) op Kanaalweg in Capelle Aan Den Ijssel,2024-01-01,08:57:46
+politie,"goedemorgen, graag contact mkb",Politie,2024-01-01,09:16:51
+politie,"g - n260,6 tilburg",Politie naar N260 in Tilburg,2024-01-01,09:09:13
+politie,graag contact opnemen met arrestantenwacht apeldoorn,Politie naar Apeldoorn,2024-01-01,09:06:08
+politie,graag contact mka nijmegen,Politie naar Nijmegen voor contact met de meldkamer opnemen,2024-01-01,09:05:23
+politie,uw piketweek is begonnen.,Politie,2024-01-01,09:00:07
+trauma,a1 dia: ja ambu 17992 hoge rijndijkab leiden leiden bon 267,Traumaheli naar Hoge Rijndijk in Leiden,2024-01-01,08:57:16

@@ -3188,3 +3188,13 @@ brandweer,p 2 bnh-01 co-melder sont hoofddorp 124230,Brandweer met spoed naar So
 brandweer,p 2 bmd-01 stormschade noordzijde emmeloord 041450,Stormschade op Noordzijde in Emmeloord,2024-01-03,12:06:16
 brandweer,p 2 bon-02 stormschade oost-breukelderweg bennekom 072941,Stormschade op Oost-Breukelderweg in Bennekom,2024-01-03,12:05:05
 politie,ongeval/wegvervoer/letsel prio 1 leek lindensteinlaan oldenoert,Ongeval met letsel op Lindensteinlaan in Leek,2024-01-03,12:10:39
+brandweer,p 2 bon-04 ass. ambu afhijsen welle deventer 041050 042830,Assistentie ambulance voor afhijsen patiënt op Welle in Deventer,2024-01-03,12:26:01
+brandweer,intrekken alarm brw oms brandmelding carintreggeland backenhagen backenhagenlaan hengelo,Automatisch brandalarm in Hengelo,2024-01-03,12:25:42
+brandweer,p 1 bzb-05 oms handmelder jumbo breda distributiecentrum iabc breda 203132,Automatisch brandalarm (handmelder) op IABC in Breda,2024-01-03,12:25:33
+brandweer,p 1 bon-03 oms gev. stof ben en jerry's hellendoorn reggeweg hellendoorn 055341,Geen beschrijving beschikbaar,2024-01-03,12:25:32
+brandweer,p 2 graag tel. contact ocb,Brandweer met gepaste spoed,2024-01-03,12:25:32
+brandweer,p 2 bon-01 oms brandmelding carintreggeland backenhagen backenhagenlaan hengelo 051131,Automatisch brandalarm op Backenhagenlaan in Hengelo,2024-01-03,12:24:41
+brandweer,p 1 bnh-02 reanimatie clippenberg bastion velserbroek 122430,Assistentie bij reanimatie op Clippenberg Bastion in Velserbroek,2024-01-03,12:24:12
+brandweer,p 1 bdh-01 oms brandmelding de eshoeve doorniksestraat 's-gravenhage 159631,Automatisch brandalarm op Doorniksestraat in Den Haag,2024-01-03,12:18:20
+trauma,a1 dia 13991 clippenberg bastion velserbroek 837 regio 12,Traumaheli naar Clippenberg Bastion in Velserbroek,2024-01-03,12:24:12
+trauma,a1 dia 13991 clippenbds' bastion 1991 velserbroek 837 regio 12,Traumaheli naar Velserbroek,2024-01-03,12:24:12

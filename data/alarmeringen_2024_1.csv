@@ -6673,3 +6673,21 @@ brandweer,p 2 bnh-01 stank/hind. lucht gaslucht buiten wilsonsplein haarlem 1230
 brandweer,p 1 bad-01 br wegvervoer auto eerste helmersstraat eerste constantijn huygensstr amsterdam 133331,Geen beschrijving beschikbaar,2024-01-07,16:53:22
 brandweer,@1 bad-01 br wegvervoer auto eerste helmersstraat eerste constantijn huygensstr amsterdam 133331,Geen beschrijving beschikbaar,2024-01-07,16:53:22
 politie,"bel oc, 5680",Politie,2024-01-07,16:53:08
+brandweer,p 1 bad-03 middel br br woning keizersgracht amsterdam,Woningbrand op Keizersgracht in Amsterdam,2024-01-07,17:23:57
+brandweer,p 1 bdh-04 oms brandmelding ipse de bruggen craeyenburch brasserskade nootdorp 157430,Geen beschrijving beschikbaar,2024-01-07,17:23:17
+brandweer,"p 1 bnn-05 reanimatie afhijsen, tilassistentie bloemkamp surhuisterveen 027050 024533",Assistentie ambulance op Bloemkamp in Surhuisterveen,2024-01-07,17:22:16
+brandweer,p 2 bdh-03 brandgerucht tempeldijk reeuwijk 163033,Geen beschrijving beschikbaar,2024-01-07,17:21:05
+brandweer,p 1 blb-04 br woning schoorsteen hobbelrade spaubeek 243351 243991 244041 244241,Woningbrand op Hobbelrade in Spaubeek,2024-01-07,17:18:05
+brandweer,p 1 bad-03 br woning keizersgracht amsterdam 133131,Woningbrand op Keizersgracht in Amsterdam,2024-01-07,17:16:46
+brandweer,p 1 blb-02 br wegvervoer vrachtauto stationstraat beek li 243591 243762 243381 244231,Voertuigbrand op Stationstraat in Beek,2024-01-07,17:14:46
+brandweer,p 2 bon-01 br container boslaan gramsbergen 042333,Buitenbrand (container) op Boslaan in Gramsbergen,2024-01-07,17:12:57
+brandweer,p 1 brt-01 br woning portiekwoning patersweg dordrecht 189492 186651 186632 186531,Woningbrand op Patersweg in Dordrecht,2024-01-07,17:12:37
+brandweer,"p 1 brt-06 reanimatie afhijsen, inzet aed else van der banstraat spijkenisse 173151",Assistentie bij reanimatie op Else van der Banstraat in Spijkenisse,2024-01-07,17:09:35
+brandweer,p 2 blb-01 liftopsluiting grote staat maastricht 243231,Assistentie bij liftopsluiting op Grote Staat in Maastricht,2024-01-07,17:08:40
+brandweer,p 1 bdh-01 oms brandmelding wkc leyweg leyweg 's-gravenhage 157730,Automatisch brandalarm op Leyweg in Den Haag,2024-01-07,17:06:10
+brandweer,p 1 br woning keizersgracht amsterdam,Woningbrand op Keizersgracht in Amsterdam,2024-01-07,17:06:09
+politie,1 ongeval wegvervoer materieel noordplein rotterdam icnum 13732,Politie naar Noordplein in Rotterdam voor Ongeval Wegvervoer Materieel,2024-01-07,17:26:09
+politie,bel oc - 5551.,Politie,2024-01-07,17:19:33
+politie,graag vcontact ovd-p hvb,Politie,2024-01-07,17:18:08
+politie,aanrijding letsel veldhofstraat eygelshoven,Politie naar Veldhofstraat in Eygelshoven voor ongeval met letsel,2024-01-07,17:09:20
+trauma,a1 dia: ja ambu 17992 else van der banstraatja spijkenisse spijkn bon 3534,Traumaheli naar Else van der Banstraat in Spijkenisse,2024-01-07,17:14:22

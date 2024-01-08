@@ -7171,3 +7171,12 @@ brandweer,p 5 bdh-01 testmelding kazerne pijnacker-nootdorp nootdorpseweg pijnac
 brandweer,p 2 bon-01 liftopsluiting oak building apeldoorn oude apeldoornseweg apeldoorn 063331,Geen beschrijving beschikbaar,2024-01-08,08:24:16
 politie,prio 1 witte de withstraat alphrn ongeval wegvervoer letsel,Ongeval met letsel op Witte de Withstraat in Alphen Aan Den Rijn,2024-01-08,08:30:38
 politie,prio 1 loosduinse hoofdstraat sgravh ongeval wegvervoer letsel,Ongeval met letsel op Loosduinse Hoofdstraat in Den Haag,2024-01-08,08:22:20
+brandweer,p 2 bnh-03 oms handmelder piet klerkx einsteinstraat purmerend 115031,Automatisch brandalarm (handmelder) op Einsteinstraat in Purmerend,2024-01-08,08:43:03
+brandweer,recht 179237 173631 179194,Geen beschrijving beschikbaar,2024-01-08,08:40:47
+brandweer,p 1 brt-02 ongeval wegvervoer zware thv fennawege barendrechtseweg barendrecht 179237 173631 179194,Ongeval op Fennaweg in Barendrecht,2024-01-08,08:40:47
+brandweer,sms/app 173731,Brandweer met spoed,2024-01-08,08:40:45
+brandweer,p 1 brt-02 ongeval wegvervoer zware thv fennaweg/1e barendrechtseweg barendrecht 179237 173631 179194,Geen beschrijving beschikbaar,2024-01-08,08:40:45
+brandweer,p 1 brt-02 ongeval wegvervoer zware thv fennaweg/1e barendrechtseweg barend,Brandweer met spoed voor ongeval,2024-01-08,08:40:45
+brandweer,p 3 bon-02 wateroverlast vossersteeg o.b.s. de buitenspiegel dalfsen 042030,Wateroverlast op Vossersteeg in Dalfsen,2024-01-08,08:38:09
+brandweer,p 1 intrekken alarm brw oms handmelder de blanckenborg eikenlaan blijham 01-28-102,Automatisch brandalarm (handmelder) op Eikenlaan in Blijham,2024-01-08,08:35:46
+politie,1 ongeval wegvervoer letsel fennaweg barendrecht icnum 14614,Politie naar Fennaweg in Barendrecht voor ongeval met letsel,2024-01-08,08:40:20

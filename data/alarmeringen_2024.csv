@@ -10597,3 +10597,25 @@ trauma,a1 mmt 13991 veenlustplein veendam 3475 regio 01,Traumaheli naar Veenlust
 trauma,a1 dia mmt 13991 veenlustplein veendam 3475,Traumaheli naar Veenlustplein in Veendam,2024-01-11,17:10:14
 trauma,a1 ambu 17902 persoonshavencl rotterdam rottdm bon 5657,Traumaheli naar Persoonshaven in Rotterdam,2024-01-11,17:02:24
 trauma,a1 ambu 17992 persoonshavencl rotterdam rottdm bon 5657,Traumaheli naar Persoonshaven in Rotterdam,2024-01-11,16:59:29
+brandweer,p 1 brt-03 br woning van der hoevenlaan berkel en rodenrijs 170551 170761 170731 170732,Woningbrand op van der Hoevenlaan in Berkel En Rodenrijs,2024-01-11,17:38:09
+brandweer,p 2 stormschade lange jufferstraat utrecht 094852,Geen beschrijving beschikbaar,2024-01-11,17:33:52
+brandweer,p 1 brt-01 reanimatie lisstraat rotterdam 170531,Assistentie bij reanimatie op Lisstraat in Rotterdam,2024-01-11,17:33:41
+brandweer,"p 1 grote hv br wegvervoer auto a1 re 43,5 amersfoort 090431 099291 099388",Voertuigbrand op A1 in Amersfoort,2024-01-11,17:33:08
+brandweer,p 2 bon-02 br afval prins bernhardweg oosterbeek 073341,Afvalbrand op Prins Bernhardweg in Oosterbeek,2024-01-11,17:32:27
+brandweer,p 2 bnn-01 br buiten vosseveld noorderweg veendam 012531,Buitenbrand op Vosseveld in Veendam,2024-01-11,17:31:46
+brandweer,p 1 bdh-04 oms brandmelding hmc antoniushove burgemeester banninglaan leidschendam 159633,Geen beschrijving beschikbaar,2024-01-11,17:31:22
+brandweer,p 2 intrekken alarm brw brandgerucht lunet zorg dijk eersel,Brandgerucht op Dijk in Eersel,2024-01-11,17:31:18
+brandweer,p 1 ongeval wegvervoer letsel afrit a1 re - diemen 2 diemen,Ongeval met letsel op A1 in Diemen,2024-01-11,17:26:55
+brandweer,p 2 bmd-01 br buiten bruinjoost kortenhoef 142631,Buitenbrand op Bruinjoost in Kortenhoef,2024-01-11,17:25:29
+politie,"prio 1 a12 li 22,2 zevhzh ongeval wegvervoer letsel",Geen beschrijving beschikbaar,2024-01-11,17:40:40
+politie,svp telefonisch contact meldkamer politie,Geen beschrijving beschikbaar,2024-01-11,17:40:11
+politie,"ongeval/wegvervoer/letsel prio 1 emmen n391 re - rondweg 14,6",Geen beschrijving beschikbaar,2024-01-11,17:40:09
+politie,aanrijding letsel wierdensestraat schuilenbergsweg almelo 26984,Politie naar Wierdensestraat in Almelo voor ongeval met letsel,2024-01-11,17:39:33
+politie,"aanrijding letsel toerit a1 li - deventer 23 104,5 d deventer 26951",Politie naar A1 in Deventer voor ongeval met letsel,2024-01-11,17:32:33
+politie,graag contact oc rotterdam,Geen beschrijving beschikbaar,2024-01-11,17:32:23
+politie,"aanrijding letsel personenauto toerit a1 li - deventer 23 104,6 d deventer 26952",Geen beschrijving beschikbaar,2024-01-11,17:32:22
+politie,ongeval wegvervoer letsel anthony fokkerweg eindhoven,Geen beschrijving beschikbaar,2024-01-11,17:30:25
+politie,aanrijding letsel fiets broekstraat tullenersweg duiven 26923,Politie naar Broekstraat in Duiven voor ongeval met letsel,2024-01-11,17:28:41
+politie,"voertuig te water n348 li - ijsselgouw 22,9 brummen 26927",Politie naar N348 in Brummen voor Voertuig te water,2024-01-11,17:28:28
+politie,graag contact oc on gms 918,Politie,2024-01-11,17:27:21
+politie,afstemverzoek arrestantenwacht politiebureau europaweg apeldoorn,Politie naar Europaweg in Apeldoorn,2024-01-11,17:25:40

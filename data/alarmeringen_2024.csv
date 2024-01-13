@@ -12649,3 +12649,14 @@ trauma,a1 ambu 08993 - pepinusbrug echt rit 14514 mkalb 24,Traumaheli naar Pepin
 brandweer,p 2 bdh-01 br berm/bosschage ary van der spuyweg 's-gravenhage 157230,Brandweer met gepaste spoed naar Ary van der Spuyweg in Den Haag,2024-01-13,20:13:26
 brandweer,p 1 brt-03 oms handmelder ns station t.d.v. rotterdam centraal stationsplein rotterdam 170631,Automatisch brandalarm (handmelder) op Stationsplein in Rotterdam,2024-01-13,20:12:52
 brandweer,p 2 bon-01 liftopsluiting eper veste epe 062231,Assistentie bij liftopsluiting op Eper Veste in Epe,2024-01-13,20:29:29
+brandweer,"prio 4 a4 re 37,1 leiddm wegverkeer verkeersstremming soort stremming: pechgeval",Brandweer naar A4 in Leidschendam,2024-01-13,20:40:16
+brandweer,"prio 1 afrit a4 li - kntr.plaspoelpolder 10 49,6 c rijszh ongeval wegvervoer letsel",Ongeval met letsel op A4 in Rijswijk,2024-01-13,20:38:26
+brandweer,"p 1 bon-03 stank/hind. lucht vreemde lucht, gaslucht raalt gendt 074931",Gaslucht op Raalt in Gendt,2024-01-13,20:34:14
+brandweer,p 1 bzb-01 br wegvervoer auto moerdijkse postbaan etten-leur 203161,Voertuigbrand op Moerdijkse Postbaan in Etten-Leur,2024-01-13,20:32:41
+brandweer,p 1 bzb-01 br wegvervoer auto moerdijkse postbaan etten-leur 203132,Voertuigbrand op Moerdijkse Postbaan in Etten-Leur,2024-01-13,20:32:41
+brandweer,p 1 bnn-03 voertuig te water wolddijk noordwolde gr 011810 011871 013593 011631 011831,Voertuig te water op Wolddijk in Noordwolde,2024-01-13,20:31:16
+politie,aanrijding letsel nobelstraat oostrum li,Politie naar Nobelstraat in Oostrum voor ongeval met letsel,2024-01-13,20:40:27
+politie,prio 1 afrit a4 li - kntr.plaspoelpolder 10 rijszh ongeval wegvervoer letsel,Ongeval met letsel op A4 in Rijswijk,2024-01-13,20:39:52
+politie,svp contact cellengang apeldoorn,Geen beschrijving beschikbaar,2024-01-13,20:36:50
+politie,ongeval/wegvervoer/voertuig te water prio 1 noordwolde gr wolddijk,Voertuig te water op Wolddijk in Noordwolde,2024-01-13,20:31:16
+politie,svp contact ocrt,Politie,2024-01-13,20:30:07

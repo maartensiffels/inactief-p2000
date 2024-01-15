@@ -14292,3 +14292,18 @@ politie,aanrijding letsel zuiderlingedijk spijk west betuwe 37177,Politie naar Z
 brandweer,p 1 bob-02 br buiten koperwiekstraat vught 214231,Buitenbrand op Koperwiekstraat in Vught,2024-01-15,19:39:57
 brandweer,p 2 brt-01 brandgerucht j.j.a. goeverneurstraat dordrecht 186632,Brandgerucht op J.J.A. Goeverneurstraat in Dordrecht,2024-01-15,19:37:46
 brandweer,"a1 a4 re 31,0 leiddp :",Brandweer naar A4 in Leiderdorp,2024-01-15,19:37:44
+brandweer,"prio 2 a12 l - utrechtsebaan 3,1 sgravh bijzondere verkeerszaken",Brandweer met gepaste spoed naar A12 in Den Haag  rijksweg a12,2024-01-15,19:49:33
+brandweer,p 2 bnh-01 brandgerucht anemonenstraat obdam 105233,Brandgerucht op Anemonenstraat in Obdam,2024-01-15,19:48:08
+brandweer,p 2 intrekken alarm brw reanimatie mr. c. goselingstraat best,Assistentie bij reanimatie op Mr. C. Goselingstraat in Best,2024-01-15,19:47:42
+brandweer,p 1 bob-03 reanimatie mr. c. goselingstraat best 225041,Assistentie bij reanimatie op Mr. C. Goselingstraat in Best,2024-01-15,19:47:42
+brandweer,p 1 bdh-03 oms brandmelding hotel wassenaar katwijkseweg wassenaar 159631,Automatisch brandalarm op Katwijkseweg in Wassenaar,2024-01-15,19:46:22
+brandweer,p 1 bon-01 br woning de eglantier apeldoorn 062651,Woningbrand op De Eglantier in Apeldoorn,2024-01-15,19:45:47
+brandweer,p 1 bon-01 br woning de eglantier apeldoorn 063231,Woningbrand op De Eglantier in Apeldoorn,2024-01-15,19:45:47
+brandweer,p 2 bad-01 buitensluiting zorg & opvang molukkenstraat amsterdam 133431,Brandweer met gepaste spoed naar Molukkenstraat in Amsterdam,2024-01-15,19:45:13
+brandweer,p 2 bdh-02 wateroverlast binnen hendrik zwaardecroonstraat 's-gravenhage 155170,Wateroverlast op Hendrik Zwaardecroonstraat in Den Haag,2024-01-15,19:44:01
+brandweer,p 2 bdh-02 wateroverlast binnen hendrik zwaardecroonstraat 's-gravenhage 159633,Wateroverlast op Hendrik Zwaardecroonstraat in Den Haag,2024-01-15,19:42:00
+politie,prio 1 koepoortbrug delft ongeval wegvervoer letsel,Ongeval met letsel in Delft,2024-01-15,19:50:03
+politie,1 ongeval wegvervoer letsel crooswijkseweg rotterdam icnum 28633,Politie naar Crooswijkseweg in Rotterdam voor ongeval met letsel,2024-01-15,19:48:30
+politie,aanrijding letsel van boetbergweg nijmegen 37243,Politie naar Nijmegen voor ongeval met letsel,2024-01-15,19:44:35
+politie,prio 1 professor casimirstraat voorb ongeval wegvervoer letsel,Ongeval met letsel op Professor Casimirstraat in Voorburg,2024-01-15,19:42:26
+trauma,a1 ambu 08993 reanimatie mr. c. goselingstraat best rit 16809 mka bzo 22,Traumaheli naar Mr. C. Goselingstraat in Best voor reanimatie,2024-01-15,19:46:09

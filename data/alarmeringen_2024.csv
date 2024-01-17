@@ -15834,3 +15834,18 @@ brandweer,p 1 dv aan derden qrt vlierbessenstraat almere 099471 099473 099474 09
 brandweer,p 1 bzb-02 br wegvervoer auto oranjepolderweg hank 205532,Voertuigbrand op Oranjepolderweg in Hank,2024-01-17,15:36:59
 politie,1 steekpartij vlaardingerdijk schiedam icnum 31955,Politie naar Vlaardingerdijk in Schiedam voor steekpartij,2024-01-17,15:42:35
 politie,aanrijding letsel soort ongeval: val diedenweg bennekom 41625,Politie naar Diedenweg in Bennekom voor ongeval met letsel,2024-01-17,15:36:44
+brandweer,p 2 brt-02 wateroverlast van der molen grondherendijk rotterdam 179166 179188,Wateroverlast op Grondherendijk in Rotterdam,2024-01-17,15:51:35
+brandweer,p 2 herbezet./kazerneren herbezetting kazerne baan rotterdam sk05,Geen beschrijving beschikbaar,2024-01-17,15:51:32
+brandweer,p 1 brt-09 ongeval gaslekkage buiten bestelbus angerestein rotterdam 173361 179191,Gaslek op Angerestein in Rotterdam,2024-01-17,15:50:18
+brandweer,p 1 bzb-03 ass. ambu rode schouw halsteren 201551,Brandweer met spoed naar Rode Schouw in Halsteren,2024-01-17,15:50:18
+brandweer,p 2 bdh-02 brandgerucht parkweg voorburg 159633,Brandgerucht op Parkweg in Voorburg,2024-01-17,15:50:10
+brandweer,p 2 bnh-02 oms brandmelding pension oranje oranjestraat zandvoort 123340,Automatisch brandalarm op Oranjestraat in Zandvoort,2024-01-17,15:49:55
+brandweer,p 1 bad-03 stank/hind. lucht gaslucht binnen valeriusstraat amsterdam 132631,Gaslucht op Valeriusstraat in Amsterdam,2024-01-17,15:49:38
+brandweer,"p 1 bad-02 ongeval afhijsen, tilassistentie van ostadestraat amsterdam 139252 133231",Assistentie ambulance op Van Ostadestraat in Amsterdam,2024-01-17,15:48:21
+brandweer,p 1 bdh-03 oms brandmelding 348 suites buitenhof 's-gravenhage 157230,Automatisch brandalarm op Buitenhof in Den Haag,2024-01-17,15:46:52
+brandweer,p 1 bnn-01 br buiten rosa spierweg assen 038231,Buitenbrand op Rosa Spierweg in Assen,2024-01-17,15:46:31
+brandweer,intrekken alarm brw stank/hind. lucht gaslucht binnen aldenhofe straat nijmegen,Gaslucht op Aldenhof in Nijmegen,2024-01-17,15:45:56
+brandweer,p 1 bon-02 stank/hind. lucht gaslucht binnen aldenhofe straat nijmegen 082331,Gaslucht op Aldenhof in Nijmegen,2024-01-17,15:45:44
+politie,"prio 3, svp contact",Politie zonder spoed,2024-01-17,15:54:18
+politie,"aanrijding letsel a12 li - europaweg,6 arnhem 41684",Politie naar Europaweg in Arnhem voor ongeval met letsel rijksweg a12,2024-01-17,15:51:32
+trauma,a1 dia: ja ambu 17992 rode schouw 4661vb halsteren halstr bon 8694,Traumaheli naar 4661VB,2024-01-17,15:47:45

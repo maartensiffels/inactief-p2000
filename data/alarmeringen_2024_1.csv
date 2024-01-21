@@ -18928,3 +18928,17 @@ brandweer,p 1 brt-02 reanimatie koninginnehof zuidland 179235,Assistentie bij re
 brandweer,p bdh-02 ass. ambu afhijsen aspergeakker zoetermeer 155250 155330,Brandweer naar Aspergeakker in Zoetermeer voor assistentie ambulance voor afhijsen patiënt,2024-01-21,05:24:35
 brandweer,p 2 bdh-03 oms brandmelding nwl netherlands production bv amperestraat hillegom 169191 161030,Automatisch brandalarm op Ampèrestraat in Hillegom,2024-01-21,05:41:26
 brandweer,p 1 bon-01 ass. ambu tilassistentie steenwijkerdiep steenwijk 041231,Assistentie ambulance op Steenwijkerdiep in Steenwijk,2024-01-21,05:37:09
+brandweer,p 2 bad-02 liftopcl5iting zorgcentrum berkenstede berkenplein diemen 134231,Brandweer met gepaste spoed naar Berkenplein in Diemen,2024-01-21,06:27:30
+brandweer,p 2 bad-02 liftopsluiting zorgcentrum berkenstede berkenplein diemen 134231,Assistentie bij liftopsluiting op Berkenplein in Diemen,2024-01-21,06:27:29
+brandweer,p 1 bad-01 middel br br woning willem baerdesenstraat amsterdam,Woningbrand op Willem Baerdesenstraat in Amsterdam,2024-01-21,06:24:12
+brandweer,p 1 bad-01 br woning willem baerdesenstraat amsterdam 132451 139091 132531 139233,Woningbrand op Willem Baerdesenstraat in Amsterdam,2024-01-21,06:23:05
+brandweer,p 2 br buiten rondweg de veste houten 091831,Buitenbrand in Houten,2024-01-21,06:13:55
+brandweer,p 1 bon-01 br wegvervoer auto von weberstraat zevenaar 075531,Voertuigbrand op Von Weberstraat in Zevenaar,2024-01-21,06:10:24
+brandweer,p 2 brt-01 ass. ambu afhijsen bergweg rotterdam 170531 170551,Assistentie ambulance voor afhijsen patiënt op Bergweg in Rotterdam,2024-01-21,06:05:31
+brandweer,p 1 bdh-01 oms brandmelding winkelcentrum leyweg 's-gravenhage 157730,Automatisch brandalarm op Leyweg in Den Haag,2024-01-21,05:59:29
+brandweer,p 1 bnh-01 lvo voorzorg baan 27 spl ugs-b buitenveldertbaan schiphol 121293 129291,Brandweer met spoed,2024-01-21,05:58:20
+politie,1 schietpartij sint-mariastraat rotterdam icnum 39112,Politie naar Sint-Mariastraat in Rotterdam voor schietpartij,2024-01-21,06:28:22
+politie,1 schietpartij mathenesserlaan rotterdam icnum 39105,Politie naar Mathenesserlaan in Rotterdam voor schietpartij,2024-01-21,06:12:57
+trauma,a1 dia: ja ambu 17902 sint-mariastraatsr rotterdam rottdm bon 10615,Traumaheli naar Sint-Mariastraat in Rotterdam,2024-01-21,06:28:22
+trauma,a1 dia: ja ambu 17992 sint-mariastraatsr rotterdam rottdm bon 10615,Traumaheli naar Sint-Mariastraat in Rotterdam,2024-01-21,06:24:59
+trauma,a1 ambu 08993 - ede willy brandtlaan,Traumaheli naar Willy Brandtlaan in Ede,2024-01-21,06:19:22

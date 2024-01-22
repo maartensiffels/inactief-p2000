@@ -20017,3 +20017,33 @@ politie,prio 1 soestdijksekade sgravh ongeval wegvervoer letsel,Ongeval met lets
 politie,ongeval/wegvervoer/letsel prio 1 groningen pop dijkemaweg,Ongeval met letsel op Pop Dijkemaweg in Groningen,2024-01-22,13:04:16
 trauma,a1 ambu 17992 17145 17812 eridanusstraat rotterdam rottdm bon 11241,Traumaheli naar Eridanusstraat in Rotterdam,2024-01-22,13:05:27
 trauma,a1 dia 13991 zaanenlaan haarlem 7124 // regio 12,Traumaheli naar Zaanenlaan in Haarlem,2024-01-22,12:57:03
+brandweer,p 1 bzb-03 br woning schoorsteen vrijstaand 's-gravenstraat clinge 196730 196750,Woningbrand op 's-Gravenstraat in Clinge,2024-01-22,13:53:27
+brandweer,p 2 bdh-04 wateroverlast binnen rdgbw hap westland middel broekweg naaldwijk 156430,Wateroverlast op Middel Broekweg in Naaldwijk,2024-01-22,13:52:35
+brandweer,p 1 27988 letsel poppestraat bremstraat poppestraat st. willebrord,Ongeval met letsel in Sint Willebrord,2024-01-22,13:51:11
+brandweer,p 1 grip 1 dv brw met gev. stof i-qatalyst bv gebouw meerzicht strijkviertel de meern 099387 099089 099095 099005 099192 098093 099197,Brandweer met spoed naar Strijkviertel in De Meern  grootschalige inzet,2024-01-22,13:49:39
+brandweer,p 2 bnn-02 br container heemborg stationsplein ter apel 012732,Buitenbrand (container) op Stationsplein in Ter Apel,2024-01-22,13:49:24
+brandweer,p 2 bzb-04 stormschade laan van othene terneuzen 196750,Stormschade op Laan van Othene in Terneuzen,2024-01-22,13:48:10
+brandweer,p 1 bad-01 ass. ambu afhijsen willem dreesplantsoen amsterdam 132451 132531,Assistentie ambulance voor afhijsen patiënt op Willem Dreesplantsoen in Amsterdam,2024-01-22,13:44:18
+brandweer,p 2 bdh-03 stormschade johan de kosterweg leiden 164130,Stormschade in Leiden,2024-01-22,13:43:50
+brandweer,p 1 ongeval met gev. stof algemeen emcr erasmus medisch centrum dr. molewate rotterdam,Ongeval in Rotterdam,2024-01-22,13:43:41
+brandweer,p 2 bnh-01 reanimatie coord. tco zaanenlaan haarlem tel contact ac,Assistentie bij reanimatie op Zaanenlaan in Haarlem,2024-01-22,13:43:16
+brandweer,p 1 brt-05 ongeval met gev. stof algemeen emcr erasmus medisch centrum dr. molewate rotterdam 170631,Ongeval in Rotterdam,2024-01-22,13:43:09
+brandweer,p 2 bzb-01 stormschade kruisvelden etten-leur 203451,Stormschade op Kruisvelden in Etten-Leur,2024-01-22,13:43:08
+brandweer,p 1 brt-05 ongeval met gev. stof algemeen emcr erasmus medisch centrum dr. molewate rotterdam 179021 170531 170931 179192,Ongeval in Rotterdam,2024-01-22,13:41:47
+brandweer,p 1 brt-05 ongeval met gev. stof algemeen emcr erasmus medisch centrum dr. molewate rotter``e 179021 170531 170931 179192,Brandweer met spoed voor ongeval,2024-01-22,13:41:46
+brandweer,p 2 bdh-01 stormschade kazerne benthuizen bentwoudlaan benthuizen 155250,Stormschade in Benthuizen,2024-01-22,13:41:16
+brandweer,p 2 bdh-02 stormschade savelberghof gouda 163130,Stormschade op Savelberghof in Gouda,2024-01-22,13:38:46
+brandweer,p 2 bob-01 liftopsluiting medisch centrum kapelstraat heeze 223041,Assistentie bij liftopsluiting op Kapelstraat in Heeze,2024-01-22,13:38:31
+brandweer,"prio 4 a4 re 30,0 leiddp wegverkeer verkeersstremming soort stremming: afgevallen lading",Brandweer naar A4 in Leiderdorp,2024-01-22,13:36:43
+brandweer,graag telefonisch contact mkb,Brandweer,2024-01-22,13:35:01
+brandweer,p 2 bon-08 hv overig gaslekkage buiten molenstraat ingen 087531 089095,Gaslek op Molenstraat in Ingen,2024-01-22,13:33:18
+brandweer,p 1 brt-04 persoon te water karel lotsyweg dordrecht 186611 189492 186010 186632 186531,Persoon te water op Karel Lotsyweg in Dordrecht,2024-01-22,13:31:52
+brandweer,p 2 bdh-01 stormschade kazerne benthuizen bentwoudlaan benthuizen 162236,Stormschade in Benthuizen,2024-01-22,13:31:05
+brandweer,p 1 blb-03 ongeval gaslekkage buiten op het kepperke brunssum 243891 243941,Gaslek op Op het Kepperke in Brunssum,2024-01-22,13:27:50
+brandweer,p 1 dv brw met gev. stof i-qatalyst bv gebouw meerzicht strijkviertel de meern 099129 098591,Brandweer met spoed naar Strijkviertel in De Meern,2024-01-22,13:27:01
+brandweer,p 1 dv brw i-qatalyst bv gebouw meerzicht strijkviertel de meern 094452 094331,Brandweer met spoed naar Strijkviertel in De Meern,2024-01-22,13:26:27
+politie,1 ongeval wegvervoer letsel wieldrechtse zeedijk dordrecht icnum 41402,Politie naar Wieldrechtse Zeedijk in Dordrecht voor ongeval met letsel,2024-01-22,13:48:07
+politie,svp contact mka,Politie  voor contact met de meldkamer opnemen,2024-01-22,13:33:46
+politie,aanrijding letsel zuidsingel venray,Politie naar Zuidsingel in Venray voor ongeval met letsel,2024-01-22,13:32:35
+politie,1 persoon te water karel lotsyweg dordrecht icnum 41364,Politie naar Karel Lotsyweg in Dordrecht voor Persoon te water,2024-01-22,13:31:08
+trauma,ovdg graag contact mkann voor franeker,Traumaheli naar Franeker voor contact met de meldkamer opnemen,2024-01-22,13:46:37

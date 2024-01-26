@@ -23489,3 +23489,17 @@ politie,2 ongeval wegvervoer materieel slaghaam hoogvliet rotterdam icfue 48807,
 politie,2 ongeval wegvervoer materieel slaghaam hoogvliet rotterdam icnum 48807,Politie naar Slaghaam in Hoogvliet Rotterdam voor Ongeval Wegvervoer Materieel,2024-01-26,08:55:37
 politie,"aanrijding letsel a28 li 64,0 nunspeet 63410",Politie naar A28 in Nunspeet voor ongeval met letsel,2024-01-26,08:54:31
 politie,"1 ongeval wegvervoer materieel a16 li - centrum 25 21,0 y rotterdam icnum 48802",Politie naar A16 in Rotterdam voor Ongeval Wegvervoer Materieel,2024-01-26,08:53:41
+brandweer,p 1 bnh-02 ass. ambu afhijsen rijksstraatweg haarlem 122450 123030,Assistentie ambulance voor afhijsen patiënt op Rijksstraatweg in Haarlem,2024-01-26,09:16:33
+brandweer,p 1 bdh-02 br woning turfmarkt gouda 163152 169194 163261 163130 163131,Woningbrand op Turfmarkt in Gouda,2024-01-26,09:13:10
+brandweer,p 2 dier op hoogte brucknerstraat amersfoort 090152,Geen beschrijving beschikbaar,2024-01-26,09:11:42
+brandweer,p 1 bdh-01 br gezondheidszorg veenhage zorg en pg meidoornlaan nootdorp 155150 155430 159593 159661 159500,Brandmelding op Meidoornlaan in Nootdorp,2024-01-26,09:10:19
+brandweer,p 3 gaarne contact mkb ass. politie gezagvoerder drone koedood barendrecht 171692,Brandweer zonder spoed naar Koedood in Barendrecht  assistentie politie,2024-01-26,09:08:00
+brandweer,p 1 32734 letsel hartmanplein terwellegang hartmanplein goes,Ongeval met letsel in Goes,2024-01-26,09:07:53
+brandweer,p 2 bnh-01 ongeval gaslekkage buiten frans halsstraat alkmaar 104131,Gaslek op Frans Halsstraat in Alkmaar,2024-01-26,09:04:01
+brandweer,p 1 bzb-02 hv overig gaslekkage buiten vlietweg klundert 203093 201032,Gaslek op Vlietweg in Klundert,2024-01-26,09:03:29
+brandweer,p 1 bdh-01 oms brandmelding veenhage zorg en pg meidoornlaan nootdorp 157430,Automatisch brandalarm op Meidoornlaan in Nootdorp,2024-01-26,09:02:09
+brandweer,p 2 bzb-01 dier op hoogte burgstsedreef breda 203151,Brandweer met gepaste spoed naar Burgstsedreef in Breda,2024-01-26,09:02:01
+politie,prio 1 koningstraat sgravh ongeval wegvervoer letsel,Ongeval met letsel op Koningstraat in Den Haag,2024-01-26,09:10:50
+politie,ongeval/wegvervoer/letsel prio 1 groningen zernikelaan,Ongeval met letsel op Zernikelaan in Groningen,2024-01-26,09:02:33
+politie,testbericht,Politie,2024-01-26,08:57:21
+trauma,a1 dia: ja ambu 17992 stremselstraat 1445md purmerend purmed bon 13474,Traumaheli naar 1445MD,2024-01-26,09:08:03

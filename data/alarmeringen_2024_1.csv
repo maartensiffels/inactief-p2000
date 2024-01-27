@@ -24234,3 +24234,9 @@ politie,aanrijding letsel ecall:  edisonstraat celsiusstraat wijchen 65897,Polit
 brandweer,p 1 bmd-01 br container kerkplein zeewolde 254531,Buitenbrand (container) op Kerkplein in Zeewolde,2024-01-27,04:24:46
 brandweer,p 2 brt-01 ass. ambu tilassistentie pretoriuslaan ouddorp zh 173931,Assistentie ambulance op Pretoriuslaan in Ouddorp,2024-01-27,04:23:50
 brandweer,p 1 bad-01 kleine hv ass. ambu deur openen korte water amsterdam 132531,Brandweer met spoed naar Korte Water in Amsterdam,2024-01-27,04:23:20
+brandweer,vervallen!! voertuig te water auto vlasakkerlaan hellevoetsluis,Brandweer naar Vlasakkerlaan in Hellevoetsluis voor Voertuig te water,2024-01-27,04:33:03
+brandweer,p 1 brt-03 voertuig te water auto vlasakkerlaan hellevoetsluis 171692 172531 173111 170411 357164 173112 172551 172561 172831 179195,Voertuig te water op Vlasakkerlaan in Hellevoetsluis,2024-01-27,04:29:24
+politie,gaarne bellen met politiemedlkamer te apeldoorn 65897,Politie naar Apeldoorn,2024-01-27,04:38:05
+politie,1 ongeval wegvervoer materieel hillelaan rotterdam icnum 50652,Politie naar Hillelaan in Rotterdam voor Ongeval Wegvervoer Materieel,2024-01-27,04:31:57
+politie,2 ongeval wegvervoer materieel pretorialaan rotterdam icnum 50648,Politie naar Pretorialaan in Rotterdam voor Ongeval Wegvervoer Materieel,2024-01-27,04:28:59
+politie,1 voertuig te water vlasakkerlaan hellevoetsluis icnum 50647,Politie naar Vlasakkerlaan in Hellevoetsluis voor Voertuig te water,2024-01-27,04:28:45

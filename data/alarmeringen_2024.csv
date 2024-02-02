@@ -29795,3 +29795,11 @@ politie,prio 1 wilhelminalaan hillgm voertuig te water,Voertuig te water op Wilh
 trauma,a1 dia: ja ambu 17902 berkebroeklaan 2498ac 's-gravenhage sgravh bon 17600,Geen beschrijving beschikbaar,2024-02-02,18:48:54
 trauma,a1 dia: ja ambu 17902 bescdbroeklaan 2498ac 's-gravenhage sgravh bon 17600,Geen beschrijving beschikbaar,2024-02-02,18:48:54
 trauma,a1 dia 13991 terborchlaan alkmaar 11105 regio 10,Traumaheli naar Terborchlaan in Alkmaar,2024-02-02,18:47:22
+brandweer,p 1 bdh-02 br woning hofwijckplein 's-gravenhage 157650 157830 157630 159591,Woningbrand op Hofwijckplein in Den Haag,2024-02-02,19:03:03
+brandweer,p 2 contact ocb bzb-01 br woning raaimoeren breda,Woningbrand op Raaimoeren in Breda,2024-02-02,18:59:38
+brandweer,p 1 bzb-01 br woning raaimoeren breda 203132,Woningbrand op Raaimoeren in Breda,2024-02-02,18:59:38
+brandweer,p 1 bad-02 stank/hind. lucht gaslucht binnen huize kalor huntum amsterdam 134131,Gaslucht op Huntum in Amsterdam,2024-02-02,18:57:29
+brandweer,"p 1 brt-01 ongeval wegvervoer a29 re 90,0 klaaswaal 189491 185731",Ongeval op A29 in Klaaswaal,2024-02-02,18:55:37
+politie,"1 ongeval wegvervoer letsel a29 re 90,0 klaaswaal icnum 63953",Politie naar A29 in Klaaswaal voor ongeval met letsel,2024-02-02,18:53:56
+politie,ongeval wegvervoer letsel broek sonseweg mariahout,Politie naar Broek in Mariahout voor ongeval met letsel,2024-02-02,18:53:50
+politie,ongeval wegvervoer letsel sonseweg lieshout,Politie naar Sonseweg in Lieshout voor ongeval met letsel,2024-02-02,18:53:16

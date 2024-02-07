@@ -5439,3 +5439,26 @@ brandweer,p 1 bnh-20 oms brandmelding terminal 1 rinse hofstraweg schiphol 12923
 brandweer,p 1 bnn-01 br woning nachtlan de wilgen 026993 027031,Woningbrand op Nachtlân in De Wilgen,2024-02-07,12:53:01
 brandweer,p 1 bad-01 stank/hind. lucht gaslucht binnen portiekwoning van der hoopstraat amsterdam 132431,Gaslucht op Van der Hoopstraat in Amsterdam,2024-02-07,12:50:52
 brandweer,p 1 oms br beheerssyst. remia b.v. dolderseweg den dolder 096631,Automatisch brandalarm op Dolderseweg in Den Dolder,2024-02-07,12:48:26
+brandweer,p 1 brt-02 oms handmelder argos breede vliet schakelweg hoogvliet rotterdam 172231 173131,Automatisch brandalarm (handmelder) op Schakelweg in Hoogvliet Rotterdam,2024-02-07,13:29:18
+brandweer,p 2 bnn-03 stank/hind. lucht hanzeborg bv l.j. zielstraweg groningen 013593 011831,Brandweer met gepaste spoed naar L.J. Zielstraweg in Groningen,2024-02-07,13:28:41
+brandweer,graag telefonisch contact mnn 038993,Brandweer,2024-02-07,13:19:52
+brandweer,p 2 brt-01 ass. ambu afhijsen strevelsweg rotterdam 173431 173451,Assistentie ambulance voor afhijsen patiënt op Strevelsweg in Rotterdam,2024-02-07,13:17:35
+brandweer,p 5 brt-05 oefening assistentie politie gevaarlijke stoffen kazerne metaalhof metaalhof rotterdam 171031,Brandweer naar Metaalhof in Rotterdam voor Assistentie politie dit betreft een oefening,2024-02-07,13:13:22
+brandweer,p 1 ongeval wegvervoer letsel czaar peterstraat amsterdam,Ongeval met letsel op Czaar Peterstraat in Amsterdam,2024-02-07,13:12:11
+brandweer,p 1 49047 letsel stappegoorweg tilburg,Ongeval met letsel op Stappegoorweg in Tilburg,2024-02-07,13:10:43
+brandweer,spoed ambu,Brandweer,2024-02-07,13:07:55
+brandweer,p 1 bad-04 stank/hind. lucht gaslucht binnen kinrooistraat amsterdam 132631,Gaslucht op Kinrooistraat in Amsterdam,2024-02-07,13:05:11
+brandweer,p 2 bon-01 br gerucht stikkersweg geesteren ge 064731,Geen beschrijving beschikbaar,2024-02-07,13:04:17
+brandweer,p 2 bon-01 br serucht stikkersweg geesteren ge 064731,Brandweer met gepaste spoed naar Stikkersweg in Geesteren,2024-02-07,13:04:17
+brandweer,p 1 bnh-01 ongeval lichte thv koos speenhofflaan beverwijk 122340,Geen beschrijving beschikbaar,2024-02-07,13:03:47
+brandweer,p 1 bdh-02 stank/hind. lucht gaslucht binnen aardster alphen aan den rijn 169291 162233,Gaslucht op Aardster in Alphen Aan Den Rijn,2024-02-07,13:03:47
+brandweer,p 1 bdh-02 stank/hind. lucht gaslucht binnen aardster alphdl aan den rijn 169291 162233,Brandweer met spoed voor Gaslucht,2024-02-07,13:03:47
+brandweer,p 2 bob-01 brandgerucht vos distri logistics vollenhovermeer oss 210331,Brandgerucht op Vollenhovermeer in Oss,2024-02-07,13:03:07
+brandweer,bellen mkb aub,Brandweer,2024-02-07,12:59:55
+brandweer,p 1 bad-03 ass. ambu deur openen dr. plesmansingel amstelveen 139232,Brandweer met spoed naar Dr. Plesmansingel in Amstelveen,2024-02-07,12:59:31
+politie,"aanrijding letsel a2 re 77,0 vianen ut",Politie naar A2 in Vianen voor ongeval met letsel,2024-02-07,13:27:27
+politie,aanrijding letsel bosscherweg maastricht,Politie naar Bosscherweg in Maastricht voor ongeval met letsel,2024-02-07,13:22:18
+politie,aanrijding letsel stationsstraat wijersstraat amersfoort,Politie naar Stationsstraat in Amersfoort voor ongeval met letsel,2024-02-07,13:20:22
+politie,"2 ongeval wegvervoer letsel a16 li 41,0 dordrecht icnum 72775",Politie naar A16 in Dordrecht voor ongeval met letsel,2024-02-07,13:17:57
+politie,"1 ongeval wegvervoer letsel a16 li 40,9 dordrecht icnum 72778",Politie naar A16 in Dordrecht voor ongeval met letsel,2024-02-07,13:17:57
+trauma,a1 ambu 08993 asperen drostlaan rit 43233,Traumaheli naar Drostlaan in Asperen,2024-02-07,13:28:18

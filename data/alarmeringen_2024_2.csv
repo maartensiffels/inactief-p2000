@@ -7732,3 +7732,20 @@ politie,ongeval/water/persoon te water prio 1 groningen hoogkerksterbrug,Persoon
 brandweer,p 1 brt-03 br woning venkeldonk spijkenisse 173151 173131 173132,Woningbrand op Venkeldonk in Spijkenisse,2024-02-10,00:47:20
 brandweer,p 2 bmd-01 stank/hind. lucht gaslucht buiten shell tankstation het hooiveld emmeloord 256131,Gaslucht op Het Hooiveld in Emmeloord,2024-02-10,00:43:22
 brandweer,p 2 bob-03 co-melder jacobus poelsstraat oss 213131,Brandweer met gepaste spoed naar Jacobus Poelsstraat in Oss,2024-02-10,00:42:27
+brandweer,p 2 bon-02 oms br beheerssyst. plukon goor b.v. breukersweg goor 051431,Automatisch brandalarm op Breukersweg in Goor,2024-02-10,01:22:48
+brandweer,p 2 brt-01 wateroverlast vuurplaat rotterdam 173431,Wateroverlast op Vuurplaat in Rotterdam,2024-02-10,01:20:52
+brandweer,p 2 bob-05 liftopsluiting art hotel lichttoren eindhoven 225043,Assistentie bij liftopsluiting op Lichttoren in Eindhoven,2024-02-10,01:01:31
+brandweer,"p 1 52534 letsel n252 - westkade,2 sas van gent",Ongeval met letsel op Westkade in Sas Van Gent,2024-02-10,01:00:57
+brandweer,p 1 bon-03 br buiten kervelstraat arnhem 073731,Buitenbrand op Kervelstraat in Arnhem,2024-02-10,00:59:46
+brandweer,p 2 bon-02 liftopsluiting pikeursbaan deventer 042830,Assistentie bij liftopsluiting op Pikeursbaan in Deventer,2024-02-10,00:59:12
+brandweer,p 2 intrekken alarm brw brandgerucht job housing jachtlust cuijkseweg haps,Brandgerucht op Cuijkseweg in Haps,2024-02-10,00:54:33
+brandweer,p 2 bon-01 br buiten langstuk druten 084431,Geen beschrijving beschikbaar,2024-02-10,00:53:50
+brandweer,p 2 bob-04 brandgerucht job housing jachtlust cuijkseweg haps 211531,Brandgerucht op Cuijkseweg in Haps,2024-02-10,00:51:33
+brandweer,p 2 bad-01 brandgerucht betreft: oms hotel/restaurant abina amsterdamseweg amstelveen 139232,Brandgerucht op Amsterdamseweg in Amstelveen,2024-02-10,00:50:43
+politie,1 ongeval wegvervoer letsel brantingweg rotterdam icnum 77923,Politie naar Rotterdam voor ongeval met letsel,2024-02-10,01:19:24
+politie,contact oc apeldoorn politie gms 866,Politie naar Apeldoorn,2024-02-10,01:00:11
+politie,"ongeval/wegvervoer/letsel prio 1 oldeouwer a6 re 303,3",Ongeval met letsel op A6 in Oldeouwer,2024-02-10,00:57:52
+trauma,"a1 ambu 17992 n252 - westkade 4,2 sas van gent sasgnt bon 21580",Traumaheli naar N252 in Terneuzen,2024-02-10,01:05:54
+trauma,a1 dia regio 12 13991 henk van turnhoutpad haarlem 13562,Traumaheli naar Henk van Turnhoutpad in Haarlem,2024-02-10,00:54:09
+trauma,a1 ambu 17902 schieweg delft delft bon 21577,Traumaheli naar Schieweg in Delft,2024-02-10,00:53:50
+trauma,a1 ambu 17992 schieweg delft delft bon 21577,Traumaheli naar Schieweg in Delft,2024-02-10,00:52:37

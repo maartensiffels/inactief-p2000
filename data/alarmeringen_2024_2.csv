@@ -9255,3 +9255,8 @@ brandweer,p 2 blb-02 br wegvervoer frontensingel maastricht 244031,Voertuigbrand
 trauma,a0 ambu 08993 reanimatie johan frisolaan vught rit 48603,Traumaheli naar Johan Frisolaan in Vught voor reanimatie,2024-02-12,05:41:46
 trauma,a1 13991 nieuweweg callantsoog 14193 // regio 10,Traumaheli naar Nieuweweg in Callantsoog,2024-02-12,05:35:29
 brandweer,p 2 aub contact 8132 brt-23 co-melder ovd-b barbierstraat gorinchem 189493,Brandweer met gepaste spoed naar Barbierstraat in Gorinchem,2024-02-12,05:56:40
+brandweer,p 1 bad-02 br wegvervoer fiets mauvestraat jozef israelskade amsterdam 133531,Voertuigbrand op Mauvestraat in Amsterdam,2024-02-12,06:16:00
+brandweer,p 1 bad-01 reanimatie flora holland centrum legmeerdijk aalsmeer 135231,Assistentie bij reanimatie op Legmeerdijk in Aalsmeer,2024-02-12,06:10:54
+brandweer,"prio 4 a12 li - kp prins clausplein 6,5 u sgravh wegverkeer verkeersstremming soort stremming: pechgeval",Brandweer naar A12 in Den Haag  rijksweg a12,2024-02-12,06:06:56
+politie,contact oc,Politie,2024-02-12,06:06:16
+trauma,a1 ambu 17992 legmeerdijk 1431gb aalsmeer aalsmr bon 22644,Traumaheli naar 1431GB,2024-02-12,06:11:50

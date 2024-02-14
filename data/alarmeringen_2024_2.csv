@@ -11286,3 +11286,14 @@ brandweer,p 2 bnh-02 stormschade ns station hoorn stationsplein hoorn nh 105151,
 brandweer,p 1 bdh-01 ass. ambu afhijsen johannes poststraat gouda 163152 163130,Assistentie ambulance voor afhijsen patiënt op Johannes Poststraat in Gouda,2024-02-14,08:44:22
 brandweer,"prio 4 a4 re 26,0 rijpwt wegverkeer verkeersstremming soort stremming: afgevallen lading",Brandweer naar A4,2024-02-14,08:40:48
 politie,ongeval wegvervoer letsel john f. kennedybaan oss,Politie naar John F. Kennedybaan in Oss voor ongeval met letsel,2024-02-14,08:45:23
+brandweer,p 2 brt-02 middel br br woning portiekwoning zwaanshals rotterdam 179201,Geen beschrijving beschikbaar,2024-02-14,09:02:50
+brandweer,"prio 4 a4 li 37,5 leiddm eigen initiatief",Brandweer naar A4 in Leidschendam,2024-02-14,09:02:25
+brandweer,p 1 bob-02 ongeval gaslekkage buiten lotusstraat palmstraat asten 225042,Gaslek op Lotusstraat in Asten,2024-02-14,09:00:07
+brandweer,p 2 bob-01 brandgerucht kronenhoef vzh kloosterdreef eindhoven 222331,Brandgerucht op Kloosterdreef in Eindhoven,2024-02-14,08:55:10
+brandweer,p 2 brt-01 oms brandmelding q-park boston en seattle otto reuchlinweg rotterdam 179233,Automatisch brandalarm op Otto Reuchlinweg in Rotterdam,2024-02-14,08:54:31
+brandweer,p 1 bdh-02 oms brandmelding hoogvoorde bogaardplein rijswijk zh 155630,Automatisch brandalarm op Bogaardplein in Rijswijk,2024-02-14,08:53:19
+brandweer,contact mkb td 179291,Brandweer,2024-02-14,08:51:25
+brandweer,p 1 bad-02 br woning dak amberboomstede diemen 134151 134231 134131,Woningbrand op Amberboomstede in Diemen,2024-02-14,08:50:48
+politie,"1 ongeval wegvervoer letsel a16 li - kp terbregseplein 15,5 f rotterdam icnum 85592",Politie naar A16 in Rotterdam voor ongeval met letsel,2024-02-14,09:04:58
+politie,prio 1 componistenlaan beethovenlaan voorht ongeval wegvervoer letsel,Ongeval met letsel op Componistenlaan in Voorhout,2024-02-14,09:00:43
+trauma,a1 ambu 08993 - groeningen groeningensestraat mka brabant rit 51050,Traumaheli naar Groeningen,2024-02-14,08:59:39

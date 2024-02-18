@@ -14644,3 +14644,12 @@ brandweer,p 1 bon-02 br woning flat rembrandtlaan enschede 054151 059094 054131 
 brandweer,p 1 brt-02 ass. ambu afhijsen moriaanseweg west hellevoetsluis 172561 172531 172831 172551,Assistentie ambulance voor afhijsen patiënt op Moriaanseweg West in Hellevoetsluis,2024-02-18,08:40:33
 brandweer,p 1 brt-03 br woning beuklaan alblasserdam 186732,Woningbrand op Beuklaan in Alblasserdam,2024-02-18,08:53:37
 brandweer,p 1 bnn-01 oms handmelder parkeergarage wester zuid westerstraat emmen 038633,Automatisch brandalarm (handmelder) op Westerstraat in Emmen,2024-02-18,08:52:59
+brandweer,p 1 brt-01 reanimatie pirandellostraat rotterdam 173751,Assistentie bij reanimatie op Pirandellostraat in Rotterdam,2024-02-18,09:17:31
+brandweer,p 1 brt-01 reanimatie pirandellostraat rotterdam 173361 170331,Assistentie bij reanimatie op Pirandellostraat in Rotterdam,2024-02-18,09:17:31
+brandweer,p 1 brt-04 ongeval wegvervoer burgemeester van dijklaan capelle aan den ijssel 171031 179193,Ongeval op Burgemeester Van Dijklaan in Capelle Aan Den Ijssel,2024-02-18,09:15:22
+brandweer,sms/app sbb mirg,Brandweer,2024-02-18,09:15:20
+brandweer,p 2 bad-01 brandgerucht rombout hogerbeetsstraat amsterdam 133331,Brandgerucht op Rombout Hogerbeetsstraat in Amsterdam,2024-02-18,09:10:57
+brandweer,p 2 bon-02 middel br br woning flat rembrandtlaan enschede,Geen beschrijving beschikbaar,2024-02-18,09:00:07
+politie,1 ongeval wegvervoer letsel burgemeester van dijklaan capelle aan den ijss icnum 93759,Politie  voor ongeval met letsel,2024-02-18,09:15:07
+trauma,a0 ambu 17992 pirandellostraatkx rotterdam rottdm bon 25968,Traumaheli naar Pirandellostraat in Rotterdam,2024-02-18,09:12:54
+trauma,a1 ambu 17992 riekusweel 4311ct bruinisse bruinn bon 25964,Traumaheli naar 4311CT,2024-02-18,09:01:26

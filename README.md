@@ -1,5 +1,7 @@
 # P2000
 
+INACTIEF - Deze code is op 20-2-2024 uitgezet omdat dit nu draait op de omgeving van Omroep Gelderland
+
 Deze repo slaat iedere 5 minuten de P2000 meldingen op voor Brandweer, Politie, KNRM en Traumaheli. 
 
 De bron van deze data is https://alarmeringen.nl/webfeeds Deze data mag volgens de creative commenslicentie gebruikt worden voor niet commerciele doeleinden.
